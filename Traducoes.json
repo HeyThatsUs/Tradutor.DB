@@ -1,0 +1,1552 @@
+{
+  "#TOPICOABREMENUAJUDA#": {
+    "PortuguesBr": "* H : Abre o menu de ajuda",
+    "PortuguesPt": "* H : Abre o menu de ajuda",
+    "InglesUs": "* H : Opens the help menu",
+    "EspanholEs": "* H : Abre el menú de ayuda",
+    "FrancesFr": "* H : Ouvre le menu d\\aide",
+    "RussoRu": "* H : Открывает меню справки",
+    "AlemaoDe": "* H : Öffnet das Hilfemenü",
+    "JaponesJa": "* H : ヘルプメニューを開きます"
+  },
+  "#TOPICOABREMENUOBJETOS#": {
+    "PortuguesBr": "* O : Abre o menu de objetos",
+    "PortuguesPt": "* O : Abre o menu de objetos",
+    "InglesUs": "* O : Opens the object menu",
+    "EspanholEs": "* O : Abre el menú de objetos",
+    "FrancesFr": "* O : Ouvre le menu des objets",
+    "RussoRu": "* O : Открывает меню объектов",
+    "AlemaoDe": "* O : Öffnet das Objektmenü",
+    "JaponesJa": "* O : オブジェクトメニューを開きます"
+  },
+  "#TOPICOABREMENUTEXTURAS#": {
+    "PortuguesBr": "* T : Abre o menu de texturas",
+    "PortuguesPt": "* T : Abre o menu de texturas",
+    "InglesUs": "* T : Opens the texture menu",
+    "EspanholEs": "* T : Abre el menú de texturas",
+    "FrancesFr": "* T : Ouvre le menu des textures",
+    "RussoRu": "* T : Открывает меню текстур",
+    "AlemaoDe": "* T : Öffnet das Texturmenü",
+    "JaponesJa": "* T : テクスチャメニューを開きます"
+  },
+  "#TOPICOACESSORAPIDO#": {
+    "PortuguesBr": "- Acesso Rápido",
+    "PortuguesPt": "- Acesso Rápido",
+    "InglesUs": "- Quick Access",
+    "EspanholEs": "- Acceso Rápido",
+    "FrancesFr": "- Accès Rapide",
+    "RussoRu": "- Быстрый доступ",
+    "AlemaoDe": "- Schnellzugriff",
+    "JaponesJa": "- クイックアクセス"
+  },
+  "#TOPICOADICAOSELECAO#": {
+    "PortuguesBr": "- Adição/Seleção",
+    "PortuguesPt": "- Adição/Seleção",
+    "InglesUs": "- Addition/Selection",
+    "EspanholEs": "- Adición/Selección",
+    "FrancesFr": "- Ajout/Sélection",
+    "RussoRu": "- Добавление/Выбор",
+    "AlemaoDe": "- Hinzufügen/Auswahl",
+    "JaponesJa": "- 追加/選択"
+  },
+  "#TOPICOINFOIMPORTACAOTEXTURAS_1#": {
+    "PortuguesBr": "- Após a importação das texturas, as mesmas serão exibidas no menu de texturas prontas para o uso.",
+    "PortuguesPt": "- Após a importação das texturas, as mesmas serão exibidas no menu de texturas prontas para o uso.",
+    "InglesUs": "- After importing the textures, they will be displayed in the menu of textures ready for use.",
+    "EspanholEs": "- Después de la importación de las texturas, se mostrarán en el menú de texturas listas para su uso.",
+    "FrancesFr": "- Après l importation des textures, elles seront affichées dans le menu des textures prêtes à l emploi.",
+    "RussoRu": "- После импорта текстур они будут отображаться в меню готовых к использованию текстур.",
+    "AlemaoDe": "- Nach dem Import der Texturen werden sie im Menü der verwendungsbereiten Texturen angezeigt.",
+    "JaponesJa": "- テクスチャのインポート後、それらは使用可能なテクスチャのメニューに表示されます。"
+  },
+  "#TOPICOINFOIMPORTACAOTEXTURAS_2#": {
+    "PortuguesBr": "- As texturas são carregadas na abertura do jogo, caso inseridas durante a gameplay será necessário reiniciar.",
+    "PortuguesPt": "- As texturas são carregadas na abertura do jogo, caso inseridas durante a gameplay será necessário reiniciar.",
+    "InglesUs": "- Textures are loaded at the opening of the game, if inserted during gameplay it will be necessary to restart.",
+    "EspanholEs": "- Las texturas se cargan al abrir el juego, si se insertan durante la jugabilidad será necesario reiniciar.",
+    "FrancesFr": "- Les textures sont chargées à l ouverture du jeu, si elles sont insérées pendant le jeu, il sera nécessaire de redémarrer.",
+    "RussoRu": "- Текстуры загружаются при запуске игры, в случае вставки во время игры потребуется перезапуск.",
+    "AlemaoDe": "- Die Texturen werden beim Öffnen des Spiels geladen. Wenn sie während des Spiels eingefügt werden, ist ein Neustart erforderlich.",
+    "JaponesJa": "- テクスチャはゲームの開始時に読み込まれます。ゲームプレイ中に挿入された場合、再起動が必要です。"
+  },
+  "#TOPICOINFOIMPORTACAOTEXTURAS_3#": {
+    "PortuguesBr": "- Criar as pastas dentro de documents 'WOB\\\\Texturas'.",
+    "PortuguesPt": "- Criar as pastas dentro de documentos 'WOB\\\\Texturas'.",
+    "InglesUs": "- Create the folders inside documents 'WOB\\\\Texturas'.",
+    "EspanholEs": "- Crear las carpetas dentro de documentos 'WOB\\\\Texturas'.",
+    "FrancesFr": "- Créer les dossiers à l intérieur des documents 'WOB\\\\Texturas'.",
+    "RussoRu": "- Создать папки внутри документов 'WOB\\\\Texturas'.",
+    "AlemaoDe": "- Ordner in Dokumenten erstellen 'WOB\\\\Texturas'.",
+    "JaponesJa": "- ドキュメント内にフォルダを作成する 'WOB\\\\Texturas'."
+  },
+  "#TOPICOINFOIMPORTACAOTEXTURAS_4#": {
+    "PortuguesBr": "- Dentro desta pasta você pode criar outras pastas para classificar as texturas ex: Tecidos\\Algodao.png.",
+    "PortuguesPt": "- Dentro desta pasta você pode criar outras pastas para classificar as texturas ex: Tecidos\\Algodao.png.",
+    "InglesUs": "- Within this folder, you can create other folders to classify textures e.g., Fabrics\\Cotton.png.",
+    "EspanholEs": "- Dentro de esta carpeta puedes crear otras carpetas para clasificar las texturas ej: Telas\\Algodón.png.",
+    "FrancesFr": "- À l intérieur de ce dossier, vous pouvez créer d autres dossiers pour classer les textures ex: Tissus\\Coton.png.",
+    "RussoRu": "- В этой папке вы можете создавать другие папки для классификации текстур, например: Ткани\\Хлопок.png.",
+    "AlemaoDe": "- In diesem Ordner können Sie andere Ordner erstellen, um Texturen zu klassifizieren, z.B.: Stoffe\\Baumwolle.png.",
+    "JaponesJa": "- このフォルダの中に、例えば Fabrics\\Cotton.png のように、他のフォルダを作成してテクスチャを分類することができます。"
+  },
+  "#TOPICOEDICAOREMOCAO#": {
+    "PortuguesBr": "- Edição/Remoção",
+    "PortuguesPt": "- Edição/Remoção",
+    "InglesUs": "- Edit/Remove",
+    "EspanholEs": "- Edición/Remoción",
+    "FrancesFr": "- Édition/Suppression",
+    "RussoRu": "- Редактирование/Удаление",
+    "AlemaoDe": "- Bearbeiten/Entfernen",
+    "JaponesJa": "- 編集/削除"
+  },
+  "#TOPICOMENUPECAS#": {
+    "PortuguesBr": "- Menu de Peças:",
+    "PortuguesPt": "- Menu de Peças:",
+    "InglesUs": "- Itens Menu:",
+    "EspanholEs": "- Menú de Piezas:",
+    "FrancesFr": "- Menu des Pièces:",
+    "RussoRu": "- Меню деталей:",
+    "AlemaoDe": "- Teilemenü:",
+    "JaponesJa": "- ピースメニュー:"
+  },
+  "#TOPICOMOVIMENTO#": {
+    "PortuguesBr": "- Movimento",
+    "PortuguesPt": "- Movimento",
+    "InglesUs": "- Movement",
+    "EspanholEs": "- Movimiento",
+    "FrancesFr": "- Mouvement",
+    "RussoRu": "- Движение",
+    "AlemaoDe": "- Bewegung",
+    "JaponesJa": "- 動き"
+  },
+  "#TOPICOINFOIMENUFERRAMENTASBLOCOS#": {
+    "PortuguesBr": "- Neste menu é possível encontrar algumas ferramentas de edição de blocos:",
+    "PortuguesPt": "- Neste menu é possível encontrar algumas ferramentas de edição de blocos:",
+    "InglesUs": "- In this menu, you can find some block editing tools:",
+    "EspanholEs": "- En este menú, puedes encontrar algunas herramientas de edición de bloques:",
+    "FrancesFr": "- Dans ce menu, vous pouvez trouver quelques outils édition de blocs:",
+    "RussoRu": "- В этом меню вы найдете некоторые инструменты редактирования блоков:",
+    "AlemaoDe": "- In diesem Menü finden Sie einige Werkzeuge zur Bearbeitung von Blöcken:",
+    "JaponesJa": "- このメニューでは、いくつかのブロック編集ツールを見つけることができます。"
+  },
+  "#TOPICOINFOIMPORTACAOTEXTURAS_5#": {
+    "PortuguesBr": "- Todas as texturas importadas no jogo devem estar no formato PNG, recomendamos utilizar o tamanho 512X512 ou 1024X1024.",
+    "PortuguesPt": "- Todas as texturas importadas no jogo devem estar no formato PNG, recomendamos utilizar o tamanho 512X512 ou 1024X1024.",
+    "InglesUs": "- All textures imported into the game must be in PNG format, we recommend using the size 512X512 or 1024X1024.",
+    "EspanholEs": "- Todas las texturas importadas en el juego deben estar en formato PNG, recomendamos usar el tamaño 512X512 o 1024X1024.",
+    "FrancesFr": "- Toutes les textures importées dans le jeu doivent être au format PNG, nous recommandons d utiliser la taille 512X512 ou 1024X1024.",
+    "RussoRu": "- Все текстуры, импортированные в игру, должны быть в формате PNG, рекомендуется использовать размер 512X512 или 1024X1024.",
+    "AlemaoDe": "- Alle Texturen, die im Spiel importiert werden, müssen im PNG-Format sein. Wir empfehlen die Verwendung der Größe 512X512 oder 1024X1024.",
+    "JaponesJa": "- ゲームにインポートされるすべてのテクスチャはPNG形式である必要があります。サイズは512X512または1024X1024を推奨します。"
+  },
+  "#TOPICOZOOMCAMERA#": {
+    "PortuguesBr": "- Zoom Camera",
+    "PortuguesPt": "- Zoom Câmera",
+    "InglesUs": "- Zoom Camera",
+    "EspanholEs": "- Zoom de la Cámara",
+    "FrancesFr": "- Zoom de la Caméra",
+    "RussoRu": "- Зум Камеры",
+    "AlemaoDe": "- Zoom Kamera",
+    "JaponesJa": "- ズーム カメラ"
+  },
+  "#SAIRCOMPIPELINE#": {
+    "PortuguesBr": "| Sair",
+    "PortuguesPt": "| Sair",
+    "InglesUs": "| Exit",
+    "EspanholEs": "| Salir",
+    "FrancesFr": "| Sortir",
+    "RussoRu": "| Выход",
+    "AlemaoDe": "| Verlassen",
+    "JaponesJa": "| 終了"
+  },
+  "#TOPICOACESSORAPIDOCONFIGURACOES#": {
+    "PortuguesBr": "A. Acesso rápido ao menu de configurações.",
+    "PortuguesPt": "A. Acesso rápido ao menu de configurações.",
+    "InglesUs": "A. Quick access to the settings menu.",
+    "EspanholEs": "A. Acceso rápido al menú de configuración.",
+    "FrancesFr": "A. Accès rapide au menu des paramètres.",
+    "RussoRu": "A. Быстрый доступ к меню настроек.",
+    "AlemaoDe": "A. Schneller Zugriff auf das Einstellungsmenü.",
+    "JaponesJa": "A. 設定メニューへのクイックアクセス。"
+  },
+  "#TOPICODELETEPECASSELECIONADAS#": {
+    "PortuguesBr": "A. O botão DEL deleta as peças selecionadas.",
+    "PortuguesPt": "A. O botão DEL deleta as peças selecionadas.",
+    "InglesUs": "A. The DEL button deletes the selected Itens.",
+    "EspanholEs": "A. El botón DEL elimina las piezas seleccionadas.",
+    "FrancesFr": "A. Le bouton DEL supprime les pièces sélectionnées.",
+    "RussoRu": "A. Кнопка DEL удаляет выбранные детали.",
+    "AlemaoDe": "A. Die DEL-Taste löscht die ausgewählten Teile.",
+    "JaponesJa": "A. DELボタンは選択したピースを削除します."
+  },
+  "#TOPICOATALHOSMOVIMENTACAOPELOMAPA#": {
+    "PortuguesBr": "A. Utilizando W, A, S e D você poderá movimentar-se pelo mapa.",
+    "PortuguesPt": "A. Utilizando W, A, S e D você poderá movimentar-se pelo mapa.",
+    "InglesUs": "A. Using W, A, S, and D, you can move around the map.",
+    "EspanholEs": "A. Utilizando W, A, S y D podrás moverte por el mapa.",
+    "FrancesFr": "A. En utilisant W, A, S et D, vous pouvez vous déplacer sur la carte.",
+    "RussoRu": "A. Используя клавиши W, A, S и D, вы можете перемещаться по карте.",
+    "AlemaoDe": "A. Mit W, A, S und D können Sie sich auf der Karte bewegen.",
+    "JaponesJa": "A. W、A、S、Dを使用してマップを移動できます。"
+  },
+  "#PERGUNTAACEITARDERROTA#": {
+    "PortuguesBr": "Aceitar derrota?",
+    "PortuguesPt": "Aceitar derrota?",
+    "InglesUs": "Accept defeat?",
+    "EspanholEs": "¿Aceptar la derrota?",
+    "FrancesFr": "Accepter la défaite ?",
+    "RussoRu": "Принять поражение?",
+    "AlemaoDe": "Niederlage akzeptieren?",
+    "JaponesJa": "敗北を受け入れますか？"
+  },
+  "#APLICARSELECAO#": {
+    "PortuguesBr": "Aplicar seleção",
+    "PortuguesPt": "Aplicar seleção",
+    "InglesUs": "Apply selection",
+    "EspanholEs": "Aplicar selección",
+    "FrancesFr": "Appliquer la sélection",
+    "RussoRu": "Применить выбор",
+    "AlemaoDe": "Auswahl anwenden",
+    "JaponesJa": "選択を適用する"
+  },
+  "#INFOFORMASBASICAS#": {
+    "PortuguesBr": "Aqui você pode encontrar as formas mais básicas que podem ser utilizadas.",
+    "PortuguesPt": "Aqui você pode encontrar as formas mais básicas que podem ser utilizadas.",
+    "InglesUs": "Here you can find the most basic shapes that can be used.",
+    "EspanholEs": "Aquí puedes encontrar las formas más básicas que se pueden utilizar.",
+    "FrancesFr": "Ici, vous pouvez trouver les formes les plus basiques qui peuvent être utilisées.",
+    "RussoRu": "Здесь вы можете найти самые базовые формы, которые можно использовать.",
+    "AlemaoDe": "Hier finden Sie die grundlegendsten Formen, die verwendet werden können.",
+    "JaponesJa": "ここでは、使用可能な最も基本的な形状を見つけることができます。"
+  },
+  "#INFOPECASEXISTENTES#": {
+    "PortuguesBr": "Aqui você pode encontrar todas as peças existentes no game.",
+    "PortuguesPt": "Aqui você pode encontrar todas as peças existentes no jogo.",
+    "InglesUs": "Here you can find all the Itens available in the game.",
+    "EspanholEs": "Aquí puedes encontrar todas las piezas existentes en el juego.",
+    "FrancesFr": "Ici, vous pouvez trouver toutes les pièces disponibles dans le jeu.",
+    "RussoRu": "Здесь вы можете найти все существующие детали в игре.",
+    "AlemaoDe": "Hier finden Sie alle im Spiel vorhandenen Teile.",
+    "JaponesJa": "ここでは、ゲーム内で使用可能なすべてのピースを見つけることができます。"
+  },
+  "#ATALHOS#": {
+    "PortuguesBr": "Atalhos",
+    "PortuguesPt": "Atalhos",
+    "InglesUs": "Shortcuts",
+    "EspanholEs": "Atajos",
+    "FrancesFr": "Raccourcis",
+    "RussoRu": "Горячие клавиши",
+    "AlemaoDe": "Tastenkombinationen",
+    "JaponesJa": "ショートカット"
+  },
+  "#AVISO#": {
+    "PortuguesBr": "Aviso",
+    "PortuguesPt": "Aviso",
+    "InglesUs": "Warning",
+    "EspanholEs": "Advertencia",
+    "FrancesFr": "Avertissement",
+    "RussoRu": "Предупреждение",
+    "AlemaoDe": "Warnung",
+    "JaponesJa": "警告"
+  },
+  "#TOPICOROTACIONARPECASMAPA#": {
+    "PortuguesBr": "B. As setas rotacionam as peças no mapa.",
+    "PortuguesPt": "B. As setas rotacionam as peças no mapa.",
+    "InglesUs": "B. The arrows rotate the Itens on the map.",
+    "EspanholEs": "B. Las flechas rotan las piezas en el mapa.",
+    "FrancesFr": "B. Les flèches font tourner les pièces sur la carte.",
+    "RussoRu": "B. Стрелки вращают детали на карте.",
+    "AlemaoDe": "B. Die Pfeile drehen die Teile auf der Karte.",
+    "JaponesJa": "B. 矢印は地図上のピースを回転させます。"
+  },
+  "#TOPICOSELECAOTEXTURA#": {
+    "PortuguesBr": "B. Seleção de textura.",
+    "PortuguesPt": "B. Seleção de textura.",
+    "InglesUs": "B. Texture selection.",
+    "EspanholEs": "B. Selección de textura.",
+    "FrancesFr": "B. Sélection de texture.",
+    "RussoRu": "B. Выбор текстуры.",
+    "AlemaoDe": "B. Texturauswahl.",
+    "JaponesJa": "B. テクスチャの選択。"
+  },
+  "#TOPICOATALHOSDESCERSUBIRCAMERA#": {
+    "PortuguesBr": "B. Utilizando Q, E você poderá subir ou descer a câmera.",
+    "PortuguesPt": "B. Utilizando Q, E você poderá subir ou descer a câmera.",
+    "InglesUs": "B. Using Q, E you can move the camera up or down.",
+    "EspanholEs": "B. Utilizando Q, E puedes subir o bajar la cámara.",
+    "FrancesFr": "B. En utilisant Q, E, vous pouvez monter ou descendre la caméra.",
+    "RussoRu": "B. Используя Q, E, вы можете поднимать или опускать камеру.",
+    "AlemaoDe": "B. Mit Q, E können Sie die Kamera nach oben oder unten bewegen.",
+    "JaponesJa": "B. Q、Eを使用してカメラを上下に移動できます。"
+  },
+  "#BEMVINDO#": {
+    "PortuguesBr": "Bem-vindo",
+    "PortuguesPt": "Bem-vindo",
+    "InglesUs": "Welcome",
+    "EspanholEs": "Bienvenido",
+    "FrancesFr": "Bienvenue",
+    "RussoRu": "Добро пожаловать",
+    "AlemaoDe": "Willkommen",
+    "JaponesJa": "ようこそ"
+  },
+  "#BLOCOSEPECAS#": {
+    "PortuguesBr": "Blocos e Peças",
+    "PortuguesPt": "Blocos e Peças",
+    "InglesUs": "Blocks and Itens",
+    "EspanholEs": "Bloques y Piezas",
+    "FrancesFr": "Blocs et Pièces",
+    "RussoRu": "Блоки и Детали",
+    "AlemaoDe": "Blöcke und Teile",
+    "JaponesJa": "ブロックとピース"
+  },
+  "#TOPICOROTACIONARVERTICALMENTE#": {
+    "PortuguesBr": "C. Rotacionar Verticalmente.",
+    "PortuguesPt": "C. Rotacionar Verticalmente.",
+    "InglesUs": "C. Rotate Vertically.",
+    "EspanholEs": "C. Rotar Verticalmente.",
+    "FrancesFr": "C. Faire pivoter verticalement.",
+    "RussoRu": "C. Повернуть по вертикали.",
+    "AlemaoDe": "C. Vertikal drehen.",
+    "JaponesJa": "C. 垂直に回転。"
+  },
+  "#CONSTRUCAO#": {
+    "PortuguesBr": "CONSTRUÇÃO",
+    "PortuguesPt": "CONSTRUÇÃO",
+    "InglesUs": "CONSTRUCTION",
+    "EspanholEs": "CONSTRUCCIÓN",
+    "FrancesFr": "CONSTRUCTION",
+    "RussoRu": "СТРОИТЕЛЬСТВО",
+    "AlemaoDe": "BAU",
+    "JaponesJa": "建設"
+  },
+  "#CADASTRAR#": {
+    "PortuguesBr": "Cadastrar",
+    "PortuguesPt": "Cadastrar",
+    "InglesUs": "Register",
+    "EspanholEs": "Registrarse",
+    "FrancesFr": "S'inscrire",
+    "RussoRu": "Зарегистрироваться",
+    "AlemaoDe": "Registrieren",
+    "JaponesJa": "登録する"
+  },
+  "#CANCELAR#": {
+    "PortuguesBr": "Cancelar",
+    "PortuguesPt": "Cancelar",
+    "InglesUs": "Cancel",
+    "EspanholEs": "Cancelar",
+    "FrancesFr": "Annuler",
+    "RussoRu": "Отменить",
+    "AlemaoDe": "Abbrechen",
+    "JaponesJa": "キャンセル"
+  },
+  "#CARPETE#": {
+    "PortuguesBr": "Carpete",
+    "PortuguesPt": "Tapete",
+    "InglesUs": "Carpet",
+    "EspanholEs": "Alfombra",
+    "FrancesFr": "Tapis",
+    "RussoRu": "Ковер",
+    "AlemaoDe": "Teppich",
+    "JaponesJa": "カーペット"
+  },
+  "#CASA#": {
+    "PortuguesBr": "Casa",
+    "PortuguesPt": "Casa",
+    "InglesUs": "House",
+    "EspanholEs": "Casa",
+    "FrancesFr": "Maison",
+    "RussoRu": "Дом",
+    "AlemaoDe": "Haus",
+    "JaponesJa": "家"
+  },
+  "#COLOCARPECA#": {
+    "PortuguesBr": "Colocar peça",
+    "PortuguesPt": "Colocar peça",
+    "InglesUs": "Place piece",
+    "EspanholEs": "Colocar pieza",
+    "FrancesFr": "Placer la pièce",
+    "RussoRu": "Поместить деталь",
+    "AlemaoDe": "Block setzen",
+    "JaponesJa": "ピースを置く"
+  },
+  "#CONFIRMAR#": {
+    "PortuguesBr": "Confirmar",
+    "PortuguesPt": "Confirmar",
+    "InglesUs": "Confirm",
+    "EspanholEs": "Confirmar",
+    "FrancesFr": "Confirmer",
+    "RussoRu": "Подтвердить",
+    "AlemaoDe": "Bestätigen",
+    "JaponesJa": "確認する"
+  },
+  "#COR#": {
+    "PortuguesBr": "Cor",
+    "PortuguesPt": "Cor",
+    "InglesUs": "Color",
+    "EspanholEs": "Color",
+    "FrancesFr": "Couleur",
+    "RussoRu": "Цвет",
+    "AlemaoDe": "Farbe",
+    "JaponesJa": "色"
+  },
+  "#CORES#": {
+    "PortuguesBr": "Cores",
+    "PortuguesPt": "Cores",
+    "InglesUs": "Colors",
+    "EspanholEs": "Colores",
+    "FrancesFr": "Couleurs",
+    "RussoRu": "Цвета",
+    "AlemaoDe": "Farben",
+    "JaponesJa": "色"
+  },
+  "#INFOCUSTOINSERIRFORMA#": {
+    "PortuguesBr": "Custo necessário para inserir a forma, objeto ou arma no seu mundo. Cada inimigo derrotado recompensará o jogador com recursos que podem ser utilizados na construção de fortificações e defesas.",
+    "PortuguesPt": "Custo necessário para inserir a forma, objeto ou arma no seu mundo. Cada inimigo derrotado recompensará o jogador com recursos que podem ser utilizados na construção de fortificações e defesas.",
+    "InglesUs": "Cost required to place the shape, object, or weapon in your world. Each defeated enemy will reward the player with resources that can be used in building fortifications and defenses.",
+    "EspanholEs": "Costo necesario para insertar la forma, objeto o arma en tu mundo. Cada enemigo derrotado recompensará al jugador con recursos que se pueden utilizar para construir fortificaciones y defensas.",
+    "FrancesFr": "Coût nécessaire pour insérer la forme, l objet ou l arme dans votre monde. Chaque ennemi vaincu récompensera le joueur avec des ressources pouvant être utilisées dans la construction de fortifications et de défenses.",
+    "RussoRu": "Стоимость для вставки формы, объекта или оружия в ваш мир. Каждый побежденный враг вознаградит игрока ресурсами, которые можно использовать для построения укреплений и обороны.",
+    "AlemaoDe": "Kosten, um die Form, das Objekt oder die Waffe in deine Welt einzufügen. Jeder besiegte Feind belohnt den Spieler mit Ressourcen, die zum Bau von Befestigungen und Verteidigungen verwendet werden können.",
+    "JaponesJa": "フォーム、オブジェクト、または武器を世界に挿入するために必要なコスト。各敵を倒すと、プレイヤーは要塞や防御の建設に使用できるリソースで報酬されます。"
+  },
+  "#TOPICOROTACIONARHORIZONTALMENTE#": {
+    "PortuguesBr": "D. Rotacionar Horizontalmente.",
+    "PortuguesPt": "D. Rotacionar Horizontalmente.",
+    "InglesUs": "D. Rotate Horizontally.",
+    "EspanholEs": "D. Rotar Horizontalmente.",
+    "FrancesFr": "D. Faire pivoter horizontalement.",
+    "RussoRu": "D. Повернуть по горизонтали.",
+    "AlemaoDe": "D. Horizontal drehen.",
+    "JaponesJa": "D. 水平に回転。"
+  },
+  "#DEFENDASUABASE#": {
+    "PortuguesBr": "DEFENDA SUA BASE",
+    "PortuguesPt": "DEFENDA SUA BASE",
+    "InglesUs": "DEFEND YOUR BASE",
+    "EspanholEs": "DEFIENDE TU BASE",
+    "FrancesFr": "DÉFENDEZ VOTRE BASE",
+    "RussoRu": "ЗАЩИТИТЕ СВОЮ БАЗУ",
+    "AlemaoDe": "VERTEIDIGE DEINE BASIS",
+    "JaponesJa": "基地を守る"
+  },
+  "#DEFESAS#": {
+    "PortuguesBr": "Defesas",
+    "PortuguesPt": "Defesas",
+    "InglesUs": "Defenses",
+    "EspanholEs": "Defensas",
+    "FrancesFr": "Défenses",
+    "RussoRu": "Защиты",
+    "AlemaoDe": "Verteidigungen",
+    "JaponesJa": "防御"
+  },
+  "#DELETARPECA#": {
+    "PortuguesBr": "Deletar peça",
+    "PortuguesPt": "Deletar peça",
+    "InglesUs": "Delete piece",
+    "EspanholEs": "Eliminar pieza",
+    "FrancesFr": "Supprimer la pièce",
+    "RussoRu": "Удалить деталь",
+    "AlemaoDe": "Stück löschen",
+    "JaponesJa": "ピースを削除"
+  },
+  "#INFORODADAATUAL_1#": {
+    "PortuguesBr": "Dependendo da sua rodada atual, a quantidade de inimigos aumenta e novos inimigos surgirão.",
+    "PortuguesPt": "Dependendo da sua rodada atual, a quantidade de inimigos aumenta e novos inimigos surgem.",
+    "InglesUs": "Depending on your current round, the number of enemies increases and new enemies will appear.",
+    "EspanholEs": "Dependiendo de tu ronda actual, la cantidad de enemigos aumenta y aparecerán nuevos enemigos.",
+    "FrancesFr": "Selon votre tour actuel, le nombre d ennemis augmente et de nouveaux ennemis apparaîtront.",
+    "RussoRu": "В зависимости от вашего текущего раунда количество врагов увеличивается, и появятся новые враги.",
+    "AlemaoDe": "Je nach Ihrem aktuellen Durchgang erhöht sich die Anzahl der Feinde und neue Feinde tauchen auf.",
+    "JaponesJa": "現在のラウンドに応じて、敵の数が増え、新しい敵が現れます。"
+  },
+  "#PERGUNTADESEJAREMOVERMAPA#": {
+    "PortuguesBr": "Deseja realmente remover o mapa",
+    "PortuguesPt": "Deseja realmente remover o mapa",
+    "InglesUs": "Do you really want to remove the map",
+    "EspanholEs": "¿Realmente deseas eliminar el mapa",
+    "FrancesFr": "Voulez-vous vraiment supprimer la carte",
+    "RussoRu": "Вы действительно хотите удалить карту",
+    "AlemaoDe": "Möchten Sie die Karte wirklich entfernen",
+    "JaponesJa": "本当にマップを削除しますか"
+  },
+  "#DIVIRTASEEXPLORANDOEDEFENDENDO#": {
+    "PortuguesBr": "Divirta-se explorando e defendendo!",
+    "PortuguesPt": "Divirta-se explorando e defendendo!",
+    "InglesUs": "Have fun exploring and defending!",
+    "EspanholEs": "¡Diviértete explorando y defendiendo!",
+    "FrancesFr": "Amusez-vous à explorer et à défendre !",
+    "RussoRu": "Приятного исследования и обороны!",
+    "AlemaoDe": "Viel Spaß beim Erkunden und Verteidigen!",
+    "JaponesJa": "探検と防御をお楽しみください！"
+  },
+  "#TOPICOREMOVERBLOCO#": {
+    "PortuguesBr": "E. Remover Bloco.",
+    "PortuguesPt": "E. Remover Bloco.",
+    "InglesUs": "E. Remove Block.",
+    "EspanholEs": "E. Eliminar Bloque.",
+    "FrancesFr": "E. Supprimer le bloc.",
+    "RussoRu": "E. Удалить блок.",
+    "AlemaoDe": "E. Block entfernen.",
+    "JaponesJa": "E. ブロックを削除。"
+  },
+  "#EMBREVE#": {
+    "PortuguesBr": "EM BREVE",
+    "PortuguesPt": "EM BREVE",
+    "InglesUs": "COMING SOON",
+    "EspanholEs": "PRÓXIMAMENTE",
+    "FrancesFr": "PROCHAINEMENT",
+    "RussoRu": "СКОРО",
+    "AlemaoDe": "BALD VERFÜGBAR",
+    "JaponesJa": "近日公開"
+  },
+  "#TECLAATALHOENTERMODOCONSTRUCAO#": {
+    "PortuguesBr": "ENTER - Ativa Modo Construção",
+    "PortuguesPt": "ENTER - Ativa Modo Construção",
+    "InglesUs": "ENTER - Activates Build Mode",
+    "EspanholEs": "ENTER - Activa el Modo de Construcción",
+    "FrancesFr": "ENTRER - Active le mode de construction",
+    "RussoRu": "ENTER - Активирует режим построения",
+    "AlemaoDe": "ENTER - Aktiviert den Baumodus",
+    "JaponesJa": "ENTER - 建設モードを有効にする"
+  },
+  "#EDICAOPECAS#": {
+    "PortuguesBr": "Edição de Peças",
+    "PortuguesPt": "Edição de Peças",
+    "InglesUs": "Edit Itens",
+    "EspanholEs": "Edición de Piezas",
+    "FrancesFr": "Édition de Pièces",
+    "RussoRu": "Редактирование деталей",
+    "AlemaoDe": "Bearbeiten von Teilen",
+    "JaponesJa": "ピースの編集"
+  },
+  "#ELIMINE#": {
+    "PortuguesBr": "Elimine",
+    "PortuguesPt": "Elimine",
+    "InglesUs": "Eliminate",
+    "EspanholEs": "Eliminar",
+    "FrancesFr": "Éliminer",
+    "RussoRu": "Удалить",
+    "AlemaoDe": "Beseitigen",
+    "JaponesJa": "排除します"
+  },
+  "#FECHAR#": {
+    "PortuguesBr": "Fechar",
+    "PortuguesPt": "Fechar",
+    "InglesUs": "Close",
+    "EspanholEs": "Cerrar",
+    "FrancesFr": "Fermer",
+    "RussoRu": "Закрыть",
+    "AlemaoDe": "Schließen",
+    "JaponesJa": "閉じる"
+  },
+  "#FECHARMENUS#": {
+    "PortuguesBr": "Fechar menus",
+    "PortuguesPt": "Fechar menus",
+    "InglesUs": "Close menus",
+    "EspanholEs": "Cerrar menús",
+    "FrancesFr": "Fermer les menus",
+    "RussoRu": "Закрыть меню",
+    "AlemaoDe": "Menüs schließen",
+    "JaponesJa": "メニューを閉じる"
+  },
+  "#INFOFERRAMENTABRUSH_1#": {
+    "PortuguesBr": "Ferramenta brush - Utilize o botão esquerdo do mouse para colocar um grupo de peças.",
+    "PortuguesPt": "Ferramenta brush - Utilize o botão esquerdo do mouse para colocar um grupo de peças.",
+    "InglesUs": "Brush tool - Use the left mouse button to place a group of pieces.",
+    "EspanholEs": "Herramienta de pincel - Use el botón izquierdo del ratón para colocar un grupo de piezas.",
+    "FrancesFr": "Outil pinceau - Utilisez le bouton gauche de la souris pour placer un groupe de pièces.",
+    "RussoRu": "Инструмент кисти - Используйте левую кнопку мыши, чтобы разместить группу деталей.",
+    "AlemaoDe": "Pinselwerkzeug - Verwenden Sie die linke Maustaste, um eine Gruppe von Teilen zu platzieren.",
+    "JaponesJa": "ブラシツール - 左マウスボタンを使用して一連のピースを配置します。"
+  },
+  "#INFOFERRAMENTAPADRAO_1#": {
+    "PortuguesBr": "Ferramenta padrão - Utilize o botão esquerdo do mouse para adicionar blocos e o botão direito para selecionar.",
+    "PortuguesPt": "Ferramenta padrão - Utilize o botão esquerdo do mouse para adicionar blocos e o botão direito para selecionar.",
+    "InglesUs": "Default tool - Use the left mouse button to add blocks and the right button to select.",
+    "EspanholEs": "Herramienta estándar - Utilice el botón izquierdo del ratón para añadir bloques y el botón derecho para seleccionar.",
+    "FrancesFr": "Outil par défaut - Utilisez le bouton gauche de la souris pour ajouter des blocs et le bouton droit pour sélectionner.",
+    "RussoRu": "Стандартный инструмент - Используйте левую кнопку мыши для добавления блоков и правую кнопку для выбора.",
+    "AlemaoDe": "Standardwerkzeug - Verwenden Sie die linke Maustaste, um Blöcke hinzuzufügen, und die rechte Taste, um auszuwählen.",
+    "JaponesJa": "デフォルトツール - ブロックを追加するには左ボタンを、選択するには右ボタンを使用してください。"
+  },
+  "#INFOFERRAMENTAPONTOS_1#": {
+    "PortuguesBr": "Ferramenta pontos - Adicione pontos utilizando o botão esquerdo do mouse, pressione a tecla ENTER para confirmar.",
+    "PortuguesPt": "Ferramenta pontos - Adicione pontos utilizando o botão esquerdo do mouse, pressione a tecla ENTER para confirmar.",
+    "InglesUs": "Points tool - Add points using the left mouse button, press ENTER to confirm.",
+    "EspanholEs": "Herramienta de puntos - Agregue puntos usando el botón izquierdo del mouse, presione ENTER para confirmar.",
+    "FrancesFr": "Outil de points - Ajoutez des points en utilisant le bouton gauche de la souris, appuyez sur ENTRÉE pour confirmer.",
+    "RussoRu": "Инструмент точек - Добавьте точки, используя левую кнопку мыши, нажмите ENTER для подтверждения.",
+    "AlemaoDe": "Punkte-Werkzeug - Fügen Sie Punkte mit der linken Maustaste hinzu und drücken Sie die EINGABETASTE, um zu bestätigen.",
+    "JaponesJa": "ポイントツール - 左マウスボタンを使用してポイントを追加し、確認するにはENTERキーを押してください。"
+  },
+  "#FIMDEJOGO#": {
+    "PortuguesBr": "Fim de jogo",
+    "PortuguesPt": "Game Over",
+    "InglesUs": "Game Over",
+    "EspanholEs": "Fin del Juego",
+    "FrancesFr": "Game Over",
+    "RussoRu": "Конец игры",
+    "AlemaoDe": "Spiel vorbei",
+    "JaponesJa": "ゲームオーバー"
+  },
+  "#FOLHA#": {
+    "PortuguesBr": "Folha",
+    "PortuguesPt": "Folha",
+    "InglesUs": "Leaf",
+    "EspanholEs": "Hoja",
+    "FrancesFr": "Feuille",
+    "RussoRu": "Лист",
+    "AlemaoDe": "Blatt",
+    "JaponesJa": "葉"
+  },
+  "#FOLHAS#": {
+    "PortuguesBr": "Folhas",
+    "PortuguesPt": "Folhas",
+    "InglesUs": "Leaves",
+    "EspanholEs": "Hojas",
+    "FrancesFr": "Feuilles",
+    "RussoRu": "Листья",
+    "AlemaoDe": "Blätter",
+    "JaponesJa": "葉"
+  },
+  "#GERAL#": {
+    "PortuguesBr": "Geral",
+    "PortuguesPt": "Geral",
+    "InglesUs": "General",
+    "EspanholEs": "General",
+    "FrancesFr": "Général",
+    "RussoRu": "Общий",
+    "AlemaoDe": "Allgemein",
+    "JaponesJa": "一般"
+  },
+  "#GRAMA#": {
+    "PortuguesBr": "Grama",
+    "PortuguesPt": "Relva",
+    "InglesUs": "Grass",
+    "EspanholEs": "Hierba",
+    "FrancesFr": "Herbe",
+    "RussoRu": "Трава",
+    "AlemaoDe": "Gras",
+    "JaponesJa": "草"
+  },
+  "#HOME#": {
+    "PortuguesBr": "Home",
+    "PortuguesPt": "Home",
+    "InglesUs": "Home",
+    "EspanholEs": "Hogar",
+    "FrancesFr": "Maison",
+    "RussoRu": "Дом",
+    "AlemaoDe": "Startseite",
+    "JaponesJa": "ホーム"
+  },
+  "#HORIZONTAL#": {
+    "PortuguesBr": "Horizontal",
+    "PortuguesPt": "Horizontal",
+    "InglesUs": "Horizontal",
+    "EspanholEs": "Horizontal",
+    "FrancesFr": "Horizontal",
+    "RussoRu": "Горизонталь",
+    "AlemaoDe": "Horizontal",
+    "JaponesJa": "横"
+  },
+  "#INFOMODOBETA#": {
+    "PortuguesBr": "IMPORTANTE! Modo Beta",
+    "PortuguesPt": "IMPORTANTE! Modo Beta",
+    "InglesUs": "IMPORTANT! Beta Mode",
+    "EspanholEs": "¡IMPORTANTE! Modo Beta",
+    "FrancesFr": "IMPORTANT ! Mode bêta",
+    "RussoRu": "ВАЖНО! Бета-режим",
+    "AlemaoDe": "WICHTIG! Beta-Modus",
+    "JaponesJa": "重要！ベータモード"
+  },
+  "#IDIOMA#": {
+    "PortuguesBr": "Idioma",
+    "PortuguesPt": "Idioma",
+    "InglesUs": "Language",
+    "EspanholEs": "Idioma",
+    "FrancesFr": "Langue",
+    "RussoRu": "Язык",
+    "AlemaoDe": "Sprache",
+    "JaponesJa": "言語"
+  },
+  "#IMPORTACAODETEXTURAS#": {
+    "PortuguesBr": "Importação de Texturas",
+    "PortuguesPt": "Importação de Texturas",
+    "InglesUs": "Texture Import",
+    "EspanholEs": "Importación de Texturas",
+    "FrancesFr": "Importation de Textures",
+    "RussoRu": "Импорт текстур",
+    "AlemaoDe": "Texturimport",
+    "JaponesJa": "テクスチャのインポート"
+  },
+  "#INFOINICIORODADA_1#": {
+    "PortuguesBr": "Inicia a próxima rodada, deixando assim o controle nas mãos do jogador, para que haja o tempo necessário para elaborar uma estratégia.",
+    "PortuguesPt": "Inicia a próxima rodada, deixando assim o controle nas mãos do jogador, para que haja o tempo necessário para elaborar uma estratégia.",
+    "InglesUs": "Starts the next round, thus leaving control in the hands of the player, so there is the necessary time to devise a strategy.",
+    "EspanholEs": "Inicia la próxima ronda, dejando así el control en manos del jugador, para que haya el tiempo necesario para elaborar una estrategia.",
+    "FrancesFr": "Démarre la prochaine manche, laissant ainsi le contrôle entre les mains du joueur, afin de disposer du temps nécessaire pour élaborer une stratégie.",
+    "RussoRu": "Запускает следующий раунд, оставляя контроль в руках игрока, чтобы было достаточно времени для разработки стратегии.",
+    "AlemaoDe": "Startet die nächste Runde und überlässt damit die Kontrolle dem Spieler, um die nötige Zeit für die Ausarbeitung einer Strategie zu haben.",
+    "JaponesJa": "次のラウンドを開始し、プレイヤーに制御を委ね、戦略を練るために十分な時間を確保します。"
+  },
+  "#INICIAR#": {
+    "PortuguesBr": "Iniciar",
+    "PortuguesPt": "Iniciar",
+    "InglesUs": "Start",
+    "EspanholEs": "Iniciar",
+    "FrancesFr": "Démarrer",
+    "RussoRu": "Начать",
+    "AlemaoDe": "Start",
+    "JaponesJa": "開始"
+  },
+  "#INICIARRONDA#": {
+    "PortuguesBr": "Iniciar ronda",
+    "PortuguesPt": "Iniciar ronda",
+    "InglesUs": "Start round",
+    "EspanholEs": "Iniciar ronda",
+    "FrancesFr": "Démarrer la manche",
+    "RussoRu": "Начать раунд",
+    "AlemaoDe": "Runde starten",
+    "JaponesJa": "ラウンドを開始"
+  },
+  "#INICIO#": {
+    "PortuguesBr": "Início",
+    "PortuguesPt": "Início",
+    "InglesUs": "Start",
+    "EspanholEs": "Inicio",
+    "FrancesFr": "Début",
+    "RussoRu": "Начало",
+    "AlemaoDe": "Start",
+    "JaponesJa": "開始"
+  },
+  "#INIMIGOS#": {
+    "PortuguesBr": "inimigos",
+    "PortuguesPt": "inimigos",
+    "InglesUs": "enemies",
+    "EspanholEs": "enemigos",
+    "FrancesFr": "ennemis",
+    "RussoRu": "враги",
+    "AlemaoDe": "Feinde",
+    "JaponesJa": "敵"
+  },
+  "#ITENS#": {
+    "PortuguesBr": "Itens",
+    "PortuguesPt": "Itens",
+    "InglesUs": "Items",
+    "EspanholEs": "Objetos",
+    "FrancesFr": "Objets",
+    "RussoRu": "Предметы",
+    "AlemaoDe": "Gegenstände",
+    "JaponesJa": "アイテム"
+  },
+  "#JOGO#": {
+    "PortuguesBr": "Jogo",
+    "PortuguesPt": "Jogo",
+    "InglesUs": "Game",
+    "EspanholEs": "Juego",
+    "FrancesFr": "Jeu",
+    "RussoRu": "Игра",
+    "AlemaoDe": "Spiel",
+    "JaponesJa": "ゲーム"
+  },
+  "#LAVA#": {
+    "PortuguesBr": "Lava",
+    "PortuguesPt": "Lava",
+    "InglesUs": "Lava",
+    "EspanholEs": "Lava",
+    "FrancesFr": "Lave",
+    "RussoRu": "Лава",
+    "AlemaoDe": "Lava",
+    "JaponesJa": "溶岩"
+  },
+  "#LISTACOMANDOS#": {
+    "PortuguesBr": "Lista Comandos",
+    "PortuguesPt": "Lista de Comandos",
+    "InglesUs": "Command List",
+    "EspanholEs": "Lista de Comandos",
+    "FrancesFr": "Liste des commandes",
+    "RussoRu": "Список команд",
+    "AlemaoDe": "Befehlsliste",
+    "JaponesJa": "コマンドリスト"
+  },
+  "#LUZES#": {
+    "PortuguesBr": "Luzes",
+    "PortuguesPt": "Luzes",
+    "InglesUs": "Lights",
+    "EspanholEs": "Luces",
+    "FrancesFr": "Lumières",
+    "RussoRu": "Свет",
+    "AlemaoDe": "Lichter",
+    "JaponesJa": "ライト"
+  },
+  "#MAPA#": {
+    "PortuguesBr": "Mapa",
+    "PortuguesPt": "Mapa",
+    "InglesUs": "Map",
+    "EspanholEs": "Mapa",
+    "FrancesFr": "Carte",
+    "RussoRu": "Карта",
+    "AlemaoDe": "Karte",
+    "JaponesJa": "マップ"
+  },
+  "#MAPAS#": {
+    "PortuguesBr": "Mapas",
+    "PortuguesPt": "Mapas",
+    "InglesUs": "Maps",
+    "EspanholEs": "Mapas",
+    "FrancesFr": "Cartes",
+    "RussoRu": "Карты",
+    "AlemaoDe": "Karten",
+    "JaponesJa": "マップ"
+  },
+  "#MADEIRA#": {
+    "PortuguesBr": "Madeira",
+    "PortuguesPt": "Madeira",
+    "InglesUs": "Wood",
+    "EspanholEs": "Madera",
+    "FrancesFr": "Bois",
+    "RussoRu": "Дерево",
+    "AlemaoDe": "Holz",
+    "JaponesJa": "木"
+  },
+  "#MOSTRAR#": {
+    "PortuguesBr": "Mostrar",
+    "PortuguesPt": "Mostrar",
+    "InglesUs": "Show",
+    "EspanholEs": "Mostrar",
+    "FrancesFr": "Montrer",
+    "RussoRu": "Показать",
+    "AlemaoDe": "Anzeigen",
+    "JaponesJa": "表示"
+  },
+  "#MOSTRARINDICADORCAMERA#": {
+    "PortuguesBr": "Mostrar indicador de câmera",
+    "PortuguesPt": "Mostrar indicador de câmera",
+    "InglesUs": "Show camera indicator",
+    "EspanholEs": "Mostrar indicador de cámara",
+    "FrancesFr": "Afficher l indicateur de caméra",
+    "RussoRu": "Показать индикатор камеры",
+    "AlemaoDe": "Kameraindikator anzeigen",
+    "JaponesJa": "カメラインジケーターを表示する"
+  },
+  "#MOUSE#": {
+    "PortuguesBr": "Mouse",
+    "PortuguesPt": "Rato",
+    "InglesUs": "Mouse",
+    "EspanholEs": "Ratón",
+    "FrancesFr": "Souris",
+    "RussoRu": "Мышь",
+    "AlemaoDe": "Maus",
+    "JaponesJa": "マウス"
+  },
+  "#MOUSEDIREITO#": {
+    "PortuguesBr": "Mouse direito",
+    "PortuguesPt": "Mouse direito",
+    "InglesUs": "Right mouse button",
+    "EspanholEs": "Botón derecho del ratón",
+    "FrancesFr": "Bouton droit de la souris",
+    "RussoRu": "Правая кнопка мыши",
+    "AlemaoDe": "Rechte Maustaste",
+    "JaponesJa": "右クリック"
+  },
+  "#MOUSEESQUERDO#": {
+    "PortuguesBr": "Mouse esquerdo",
+    "PortuguesPt": "Mouse esquerdo",
+    "InglesUs": "Left mouse button",
+    "EspanholEs": "Botón izquierdo del ratón",
+    "FrancesFr": "Bouton gauche de la souris",
+    "RussoRu": "Левая кнопка мыши",
+    "AlemaoDe": "Linke Maustaste",
+    "JaponesJa": "左クリック"
+  },
+  "#MOVIMENTACAO#": {
+    "PortuguesBr": "Movimentação",
+    "PortuguesPt": "Movimentação",
+    "InglesUs": "Movement",
+    "EspanholEs": "Movimiento",
+    "FrancesFr": "Mouvement",
+    "RussoRu": "Движение",
+    "AlemaoDe": "Bewegung",
+    "JaponesJa": "動き"
+  },
+  "#MOVIMENTACAOJOGADOR#": {
+    "PortuguesBr": "Movimentação jogador",
+    "PortuguesPt": "Movimentação jogador",
+    "InglesUs": "Player movement",
+    "EspanholEs": "Movimiento del jugador",
+    "FrancesFr": "Mouvement du joueur",
+    "RussoRu": "Движение игрока",
+    "AlemaoDe": "Spielerbewegung",
+    "JaponesJa": "プレイヤーの移動"
+  },
+  "#NATUREZA#": {
+    "PortuguesBr": "Natureza",
+    "PortuguesPt": "Natureza",
+    "InglesUs": "Nature",
+    "EspanholEs": "Naturaleza",
+    "FrancesFr": "Nature",
+    "RussoRu": "Природа",
+    "AlemaoDe": "Natur",
+    "JaponesJa": "自然"
+  },
+  "#INFOMODOJOGODEFENSASUABASE_1#": {
+    "PortuguesBr": "Neste modo de jogo você terá acesso a um conjunto diversificado de peças, objetos e armas para erguer e fortificar suas defesas protegendo o núcleo de seu mundo.",
+    "PortuguesPt": "Neste modo de jogo você terá acesso a um conjunto diversificado de peças, objetos e armas para erguer e fortificar suas defesas protegendo o núcleo de seu mundo.",
+    "InglesUs": "In this game mode, you will have access to a diverse set of pieces, objects, and weapons to build and fortify your defenses, protecting the core of your world.",
+    "EspanholEs": "En este modo de juego, tendrás acceso a un conjunto diversificado de piezas, objetos y armas para construir y fortificar tus defensas, protegiendo el núcleo de tu mundo.",
+    "FrancesFr": "Dans ce mode de jeu, vous aurez accès à un ensemble diversifié de pièces, d objets et d armes pour construire et fortifier vos défenses, protégeant le cœur de votre monde.",
+    "RussoRu": "В этом режиме игры у вас будет доступ к разнообразному набору деталей, объектов и оружия для построения и укрепления ваших оборонительных сооружений, защищая ядро вашего мира.",
+    "AlemaoDe": "In diesem Spielmodus haben Sie Zugriff auf eine vielfältige Auswahl an Teilen, Objekten und Waffen, um Ihre Verteidigungen zu errichten und zu festigen und den Kern Ihrer Welt zu schützen.",
+    "JaponesJa": "このゲームモードでは、さまざまなピース、オブジェクト、武器にアクセスできます。防御を築き、補強し、世界の中核を保護します。"
+  },
+  "#INFOMODOJOGOCONSTRUCAO_1#": {
+    "PortuguesBr": "Neste modo de jogo você terá acesso a um vasto inventário de peças e objetos diferentes, como blocos, móveis, decorações para dar vida a sua criatividade.",
+    "PortuguesPt": "Neste modo de jogo você terá acesso a um vasto inventário de peças e objetos diferentes, como blocos, móveis, decorações para dar vida a sua criatividade.",
+    "InglesUs": "In this game mode, you will have access to a vast inventory of different pieces and objects, such as blocks, furniture, decorations to bring your creativity to life.",
+    "EspanholEs": "En este modo de juego tendrás acceso a un vasto inventario de piezas y objetos diferentes, como bloques, muebles, decoraciones para dar vida a tu creatividad.",
+    "FrancesFr": "Dans ce mode de jeu, vous aurez accès à un vaste inventaire de pièces et d objets différents, tels que des blocs, des meubles, des décorations pour donner vie à votre créativité.",
+    "RussoRu": "В этом режиме игры у вас будет доступ к обширному инвентарю различных деталей и объектов, таких как блоки, мебель, украшения, чтобы оживить вашу креативность.",
+    "AlemaoDe": "In diesem Spielmodus haben Sie Zugriff auf ein umfangreiches Inventar von verschiedenen Teilen und Objekten wie Blöcke, Möbel, Dekorationen, um Ihrer Kreativität Leben einzuhauchen.",
+    "JaponesJa": "このゲームモードでは、さまざまなピースやオブジェクトにアクセスできます。ブロック、家具、デコレーションなど、あなたの創造力に命を吹き込むためのものです。"
+  },
+  "#NOME#": {
+    "PortuguesBr": "Nome",
+    "PortuguesPt": "Nome",
+    "InglesUs": "Name",
+    "EspanholEs": "Nombre",
+    "FrancesFr": "Nom",
+    "RussoRu": "Имя",
+    "AlemaoDe": "Name",
+    "JaponesJa": "名前"
+  },
+  "#NOVO#": {
+    "PortuguesBr": "Novo",
+    "PortuguesPt": "Novo",
+    "InglesUs": "New",
+    "EspanholEs": "Nuevo",
+    "FrancesFr": "Nouveau",
+    "RussoRu": "Новый",
+    "AlemaoDe": "Neu",
+    "JaponesJa": "新しい"
+  },
+  "#NOVOUSUARIO#": {
+    "PortuguesBr": "Novo Usuário",
+    "PortuguesPt": "Novo Utilizador",
+    "InglesUs": "New User",
+    "EspanholEs": "Nuevo Usuario",
+    "FrancesFr": "Nouvel Utilisateur",
+    "RussoRu": "Новый пользователь",
+    "AlemaoDe": "Neuer Benutzer",
+    "JaponesJa": "新しいユーザー"
+  },
+  "#NOVOJOGO#": {
+    "PortuguesBr": "Novo jogo",
+    "PortuguesPt": "Novo jogo",
+    "InglesUs": "New game",
+    "EspanholEs": "Nuevo juego",
+    "FrancesFr": "Nouveau jeu",
+    "RussoRu": "Новая игра",
+    "AlemaoDe": "Neues Spiel",
+    "JaponesJa": "新しいゲーム"
+  },
+  "#NAO#": {
+    "PortuguesBr": "Não",
+    "PortuguesPt": "Não",
+    "InglesUs": "No",
+    "EspanholEs": "No",
+    "FrancesFr": "Non",
+    "RussoRu": "Нет",
+    "AlemaoDe": "Nein",
+    "JaponesJa": "いいえ"
+  },
+  "#NAOEXIBIRMAIS#": {
+    "PortuguesBr": "Não exibir mais",
+    "PortuguesPt": "Não exibir mais",
+    "InglesUs": "Do not display anymore",
+    "EspanholEs": "No mostrar más",
+    "FrancesFr": "Ne plus afficher",
+    "RussoRu": "Не отображать больше",
+    "AlemaoDe": "Nicht mehr anzeigen",
+    "JaponesJa": "もう表示しない"
+  },
+  "#INFONAORONDA_1#": {
+    "PortuguesBr": "Não: Você continuará a partir da última ronda.",
+    "PortuguesPt": "Não: Você continuará a partir da última ronda.",
+    "InglesUs": "No: You will continue from the last round.",
+    "EspanholEs": "No: Continuarás desde la última ronda.",
+    "FrancesFr": "Non : Vous continuerez à partir de la dernière manche.",
+    "RussoRu": "Нет: Вы продолжите с последнего раунда.",
+    "AlemaoDe": "Nein: Sie werden ab der letzten Runde fortgesetzt.",
+    "JaponesJa": "いいえ：前回のラウンドから続行します。"
+  },
+  "#NUCLEO#": {
+    "PortuguesBr": "Núcleo",
+    "PortuguesPt": "Núcleo",
+    "InglesUs": "Core",
+    "EspanholEs": "Núcleo",
+    "FrancesFr": "Noyau",
+    "RussoRu": "Ядро",
+    "AlemaoDe": "Kern",
+    "JaponesJa": "コア"
+  },
+  "#INFOCOREMAPA_1#": {
+    "PortuguesBr": "O coração do seu mundo, este artefato, precisa ser protegido com a sua vida. A cada rodada concluída, mais inimigos tentarão destruí-lo. Seu objetivo é criar defesas e garantir a sobrevivência do seu mundo.",
+    "PortuguesPt": "O coração do seu mundo, este artefato, precisa ser protegido com a sua vida. A cada rodada concluída, mais inimigos tentarão destruí-lo. Seu objetivo é criar defesas e garantir a sobrevivência do seu mundo.",
+    "InglesUs": "The heart of your world, this artifact, needs to be protected with your life. With each completed round, more enemies will try to destroy it. Your goal is to create defenses and ensure the survival of your world.",
+    "EspanholEs": "El corazón de tu mundo, este artefacto, necesita ser protegido con tu vida. Con cada ronda completada, más enemigos intentarán destruirlo. Tu objetivo es crear defensas y asegurar la supervivencia de tu mundo.",
+    "FrancesFr": "Le cœur de votre monde, cet artefact, doit être protégé de votre vie. À chaque tour terminé, plus d ennemis tenteront de le détruire. Votre objectif est de créer des défenses et d assurer la survie de votre monde.",
+    "RussoRu": "Сердце вашего мира, этот артефакт, должно быть защищено вашей жизнью. С каждым завершенным раундом все больше врагов попытаются его уничтожить. Ваша цель - создать защитные сооружения и обеспечить выживание вашего мира.",
+    "AlemaoDe": "Das Herz deiner Welt, dieses Artefakt, muss mit deinem Leben geschützt werden. Mit jedem abgeschlossenen Durchgang werden mehr Feinde versuchen, es zu zerstören. Dein Ziel ist es, Verteidigungen zu schaffen und das Überleben deiner Welt zu gewährleisten.",
+    "JaponesJa": "あなたの世界の中心、このアーティファクトはあなたの命をかけて守る必要があります。各ラウンドが終了するたびに、より多くの敵がそれを破壊しようとします。あなたの目標は、防御を作り、あなたの世界の生存を確保することです。"
+  },
+  "#OBJETO#": {
+    "PortuguesBr": "Objeto",
+    "PortuguesPt": "Objeto",
+    "InglesUs": "Object",
+    "EspanholEs": "Objeto",
+    "FrancesFr": "Objet",
+    "RussoRu": "Объект",
+    "AlemaoDe": "Objekt",
+    "JaponesJa": "オブジェクト"
+  },
+  "#OCULTAR#": {
+    "PortuguesBr": "Ocultar",
+    "PortuguesPt": "Ocultar",
+    "InglesUs": "Hide",
+    "EspanholEs": "Ocultar",
+    "FrancesFr": "Masquer",
+    "RussoRu": "Скрыть",
+    "AlemaoDe": "Verstecken",
+    "JaponesJa": "隠す"
+  },
+  "#OPCAO#": {
+    "PortuguesBr": "Opção",
+    "PortuguesPt": "Opção",
+    "InglesUs": "Option",
+    "EspanholEs": "Opción",
+    "FrancesFr": "Option",
+    "RussoRu": "Опция",
+    "AlemaoDe": "Option",
+    "JaponesJa": "オプション"
+  },
+  "#OPCOES#": {
+    "PortuguesBr": "Opções",
+    "PortuguesPt": "Opções",
+    "InglesUs": "Options",
+    "EspanholEs": "Opciones",
+    "FrancesFr": "Options",
+    "RussoRu": "Параметры",
+    "AlemaoDe": "Einstellungen",
+    "JaponesJa": "オプション"
+  },
+  "#INFOIMPORTACAOTEXTURAS_1#": {
+    "PortuguesBr": "Para realizar a importação de texturas, deve-se realizar os seguintes passos:",
+    "PortuguesPt": "Para realizar a importação de texturas, deve-se realizar os seguintes passos:",
+    "InglesUs": "To perform texture import, the following steps must be taken:",
+    "EspanholEs": "Para realizar la importación de texturas, se deben seguir los siguientes pasos:",
+    "FrancesFr": "Pour effectuer l importation de textures, les étapes suivantes doivent être suivies:",
+    "RussoRu": "Для выполнения импорта текстур необходимо выполнить следующие шаги:",
+    "AlemaoDe": "Um den Import von Texturen durchzuführen, müssen die folgenden Schritte durchgeführt werden:",
+    "JaponesJa": "テクスチャのインポートを行うには、以下の手順を実行する必要があります。"
+  },
+  "#PEDRA#": {
+    "PortuguesBr": "Pedra",
+    "PortuguesPt": "Pedra",
+    "InglesUs": "Stone",
+    "EspanholEs": "Piedra",
+    "FrancesFr": "Pierre",
+    "RussoRu": "Камень",
+    "AlemaoDe": "Stein",
+    "JaponesJa": "石"
+  },
+  "#PONTOS#": {
+    "PortuguesBr": "Pontos",
+    "PortuguesPt": "Pontos",
+    "InglesUs": "Points",
+    "EspanholEs": "Puntos",
+    "FrancesFr": "Points",
+    "RussoRu": "Очки",
+    "AlemaoDe": "Punkte",
+    "JaponesJa": "ポイント"
+  },
+  "#INFOPORTAISESPALHADOSPELOMAPA_1#": {
+    "PortuguesBr": "Portais como este estão espalhados pelo mapa e servem como a porta de entrada dos inimigos para o seu mundo.",
+    "PortuguesPt": "Portais como este estão espalhados pelo mapa e servem como a porta de entrada dos inimigos para o seu mundo.",
+    "InglesUs": "Portals like this are scattered throughout the map and serve as the entry point for enemies into your world.",
+    "EspanholEs": "Portales como este están dispersos por todo el mapa y sirven como la puerta de entrada de los enemigos a tu mundo.",
+    "FrancesFr": "Des portails comme celui-ci sont dispersés sur la carte et servent de porte d entrée pour les ennemis dans votre monde.",
+    "RussoRu": "Порталы, подобные этому, распространены по всей карте и служат входной точкой для врагов в ваш мир.",
+    "AlemaoDe": "Portale wie dieses sind über die Karte verteilt und dienen als Eingangspunkt für Feinde in deine Welt.",
+    "JaponesJa": "このようなポータルはマップ全体に散らばっており、敵があなたの世界に入る入り口として機能します。"
+  },
+  "#INFOPORTAISESPALHADOSPELOMAPA_2#": {
+    "PortuguesBr": "Portais como este estão espalhados pelo mapa, são a porta de entrada dos inimigos para o seu mundo.",
+    "PortuguesPt": "Portais como este estão distribuídos pelo mapa e são a entrada dos inimigos para o seu mundo.",
+    "InglesUs": "Portals like this are scattered throughout the map, they are the entryway for enemies into your world.",
+    "EspanholEs": "Portales como este están dispersos por el mapa, son la entrada de los enemigos a tu mundo.",
+    "FrancesFr": "Des portails comme celui-ci sont dispersés sur la carte, ils sont la porte d entrée des ennemis dans votre monde.",
+    "RussoRu": "Подобные порталы распространены по всей карте и служат входом для врагов в ваш мир.",
+    "AlemaoDe": "Portale wie dieser sind auf der Karte verteilt und dienen als Eingang für Feinde in Ihre Welt.",
+    "JaponesJa": "このようなポータルは地図全体に広がっており、敵があなたの世界に入る入り口です。"
+  },
+  "#PORTAL#": {
+    "PortuguesBr": "Portal",
+    "PortuguesPt": "Portal",
+    "InglesUs": "Portal",
+    "EspanholEs": "Portal",
+    "FrancesFr": "Portail",
+    "RussoRu": "Портал",
+    "AlemaoDe": "Portal",
+    "JaponesJa": "ポータル"
+  },
+  "#QUAL#": {
+    "PortuguesBr": "Qual",
+    "PortuguesPt": "Qual",
+    "InglesUs": "What",
+    "EspanholEs": "Qué",
+    "FrancesFr": "Quel",
+    "RussoRu": "Какой",
+    "AlemaoDe": "Welche",
+    "JaponesJa": "何"
+  },
+  "#QUALNOMEMAPA#": {
+    "PortuguesBr": "Qual o nome do seu mapa?",
+    "PortuguesPt": "Qual é o nome do seu mapa?",
+    "InglesUs": "What is the name of your map?",
+    "EspanholEs": "¿Cuál es el nombre de tu mapa?",
+    "FrancesFr": "Quel est le nom de votre carte ?",
+    "RussoRu": "Как назвать вашу карту?",
+    "AlemaoDe": "Wie heißt deine Karte?",
+    "JaponesJa": "あなたのマップの名前は何ですか？"
+  },
+  "#QUALSEUNOME#": {
+    "PortuguesBr": "Qual seu nome?",
+    "PortuguesPt": "Qual é o seu nome?",
+    "InglesUs": "What is your name?",
+    "EspanholEs": "¿Cuál es tu nombre?",
+    "FrancesFr": "Quel est votre nom ?",
+    "RussoRu": "Как вас зовут?",
+    "AlemaoDe": "Wie ist Ihr Name?",
+    "JaponesJa": "あなたのお名前は何ですか？"
+  },
+  "#RECURSOS#": {
+    "PortuguesBr": "Recursos",
+    "PortuguesPt": "Recursos",
+    "InglesUs": "Resources",
+    "EspanholEs": "Recursos",
+    "FrancesFr": "Ressources",
+    "RussoRu": "Ресурсы",
+    "AlemaoDe": "Ressourcen",
+    "JaponesJa": "リソース"
+  },
+  "#REMOVERMAPA#": {
+    "PortuguesBr": "Remover Mapa",
+    "PortuguesPt": "Remover Mapa",
+    "InglesUs": "Remove Map",
+    "EspanholEs": "Eliminar Mapa",
+    "FrancesFr": "Supprimer la carte",
+    "RussoRu": "Удалить карту",
+    "AlemaoDe": "Karte entfernen",
+    "JaponesJa": "マップを削除"
+  },
+  "#REMOVERUSUARIO#": {
+    "PortuguesBr": "Remover Usuário",
+    "PortuguesPt": "Remover Utilizador",
+    "InglesUs": "Remove User",
+    "EspanholEs": "Eliminar Usuario",
+    "FrancesFr": "Supprimer utilisateur",
+    "RussoRu": "Удалить пользователя",
+    "AlemaoDe": "Benutzer entfernen",
+    "JaponesJa": "ユーザーの削除"
+  },
+  "#RESOLUCAO#": {
+    "PortuguesBr": "Resolução",
+    "PortuguesPt": "Resolução",
+    "InglesUs": "Resolution",
+    "EspanholEs": "Resolución",
+    "FrancesFr": "Résolution",
+    "RussoRu": "Разрешение",
+    "AlemaoDe": "Auflösung",
+    "JaponesJa": "解像度"
+  },
+  "#RESOLUCAOJOGO#": {
+    "PortuguesBr": "Resolução Game",
+    "PortuguesPt": "Resolução do Jogo",
+    "InglesUs": "Game Resolution",
+    "EspanholEs": "Resolución del Juego",
+    "FrancesFr": "Résolution du Jeu",
+    "RussoRu": "Разрешение игры",
+    "AlemaoDe": "Auflösung",
+    "JaponesJa": "ゲームの解像度"
+  },
+  "#RONDAFINALIZADA#": {
+    "PortuguesBr": "Ronda Finalizada",
+    "PortuguesPt": "Ronda Finalizada",
+    "InglesUs": "Round Finished",
+    "EspanholEs": "Ronda finalizada",
+    "FrancesFr": "Manche terminée",
+    "RussoRu": "Раунд завершен",
+    "AlemaoDe": "Runde beendet",
+    "JaponesJa": "ラウンド終了"
+  },
+  "#RONDAINICIADA#": {
+    "PortuguesBr": "Ronda iniciada!",
+    "PortuguesPt": "Ronda iniciada!",
+    "InglesUs": "Round started!",
+    "EspanholEs": "¡Ronda iniciada!",
+    "FrancesFr": "Manche commencée !",
+    "RussoRu": "Начата раунд!",
+    "AlemaoDe": "Runde gestartet!",
+    "JaponesJa": "ラウンド開始！"
+  },
+  "#ROTACAOCAMERA#": {
+    "PortuguesBr": "Rotação câmera / seleção peça",
+    "PortuguesPt": "Rotação câmera / seleção peça",
+    "InglesUs": "Camera rotation / piece selection",
+    "EspanholEs": "Rotación de cámara / selección de pieza",
+    "FrancesFr": "Rotation de la caméra / sélection de pièce",
+    "RussoRu": "Вращение камеры / выбор элемента",
+    "AlemaoDe": "Kamerarotation / Stückauswahl",
+    "JaponesJa": "カメラの回転 / ピースの選択"
+  },
+  "#ROTACAOPECA#": {
+    "PortuguesBr": "Rotação peça",
+    "PortuguesPt": "Rotação peça",
+    "InglesUs": "Piece rotation",
+    "EspanholEs": "Rotación de pieza",
+    "FrancesFr": "Rotation de pièce",
+    "RussoRu": "Вращение детали",
+    "AlemaoDe": "Block drehen",
+    "JaponesJa": "ピースの回転"
+  },
+  "#SOBREVIVENCIA#": {
+    "PortuguesBr": "SOBREVIVÊNCIA",
+    "PortuguesPt": "SOBREVIVÊNCIA",
+    "InglesUs": "SURVIVAL",
+    "EspanholEs": "SUPERVIVENCIA",
+    "FrancesFr": "SURVIE",
+    "RussoRu": "ВЫЖИВАНИЕ",
+    "AlemaoDe": "ÜBERLEBEN",
+    "JaponesJa": "生存"
+  },
+  "#SAIR#": {
+    "PortuguesBr": "Sair",
+    "PortuguesPt": "Sair",
+    "InglesUs": "Exit",
+    "EspanholEs": "Salir",
+    "FrancesFr": "Sortir",
+    "RussoRu": "Выход",
+    "AlemaoDe": "Beenden",
+    "JaponesJa": "終了"
+  },
+  "#SALVAR#": {
+    "PortuguesBr": "Salvar",
+    "PortuguesPt": "Guardar",
+    "InglesUs": "Save",
+    "EspanholEs": "Guardar",
+    "FrancesFr": "Enregistrer",
+    "RussoRu": "Сохранить",
+    "AlemaoDe": "Speichern",
+    "JaponesJa": "保存"
+  },
+  "#SALVARBARRAAPLICAR#": {
+    "PortuguesBr": "Salvar/Aplicar",
+    "PortuguesPt": "Salvar/Aplicar",
+    "InglesUs": "Save/Apply",
+    "EspanholEs": "Guardar/Aplicar",
+    "FrancesFr": "Enregistrer/Appliquer",
+    "RussoRu": "Сохранить/Применить",
+    "AlemaoDe": "Speichern/Anwenden",
+    "JaponesJa": "保存/適用"
+  },
+  "#SELECIONAR#": {
+    "PortuguesBr": "Selecionar",
+    "PortuguesPt": "Selecionar",
+    "InglesUs": "Select",
+    "EspanholEs": "Seleccionar",
+    "FrancesFr": "Sélectionner",
+    "RussoRu": "Выбрать",
+    "AlemaoDe": "Auswählen",
+    "JaponesJa": "選択"
+  },
+  "#SELECIONE#": {
+    "PortuguesBr": "Selecione",
+    "PortuguesPt": "Selecionar",
+    "InglesUs": "Select",
+    "EspanholEs": "Seleccionar",
+    "FrancesFr": "Sélectionner",
+    "RussoRu": "Выбрать",
+    "AlemaoDe": "Auswählen",
+    "JaponesJa": "選択"
+  },
+  "#SELECIONESEUOBJETO#": {
+    "PortuguesBr": "Selecione o seu objeto",
+    "PortuguesPt": "Selecione o seu objeto",
+    "InglesUs": "Select your object",
+    "EspanholEs": "Seleccione su objeto",
+    "FrancesFr": "Sélectionnez votre objet",
+    "RussoRu": "Выберите ваш объект",
+    "AlemaoDe": "Wählen Sie Ihr Objekt aus",
+    "JaponesJa": "あなたのオブジェクトを選択してください"
+  },
+  "#SELECIONSEUUSUARIO#": {
+    "PortuguesBr": "Selecione o seu usuário",
+    "PortuguesPt": "Selecione o seu usuário",
+    "InglesUs": "Select your user",
+    "EspanholEs": "Seleccione su usuario",
+    "FrancesFr": "Sélectionnez votre utilisateur",
+    "RussoRu": "Выберите вашего пользователя",
+    "AlemaoDe": "Wählen Sie Ihren Benutzer aus",
+    "JaponesJa": "ユーザーを選択してください"
+  },
+  "#SELECIONESUATEXTURA#": {
+    "PortuguesBr": "Selecione sua textura",
+    "PortuguesPt": "Selecione a sua textura",
+    "InglesUs": "Select your texture",
+    "EspanholEs": "Seleccione su textura",
+    "FrancesFr": "Sélectionnez votre texture",
+    "RussoRu": "Выберите вашу текстуру",
+    "AlemaoDe": "Wählen Sie Ihre Textur aus",
+    "JaponesJa": "あなたのテクスチャを選択してください"
+  },
+  "#SELECAODEPECAS#": {
+    "PortuguesBr": "Seleção de Peças",
+    "PortuguesPt": "Seleção de Peças",
+    "InglesUs": "Piece Selection",
+    "EspanholEs": "Selección de Piezas",
+    "FrancesFr": "Sélection de Pièces",
+    "RussoRu": "Выбор деталей",
+    "AlemaoDe": "Teileauswahl",
+    "JaponesJa": "ピースの選択"
+  },
+  "#SENSIBILIDADE#": {
+    "PortuguesBr": "Sensibilidade",
+    "PortuguesPt": "Sensibilidade",
+    "InglesUs": "Sensitivity",
+    "EspanholEs": "Sensibilidad",
+    "FrancesFr": "Sensibilité",
+    "RussoRu": "Чувствительность",
+    "AlemaoDe": "Sensitivität",
+    "JaponesJa": "感度"
+  },
+  "#SENSIBILIDADEMOUSE#": {
+    "PortuguesBr": "Sensibilidade do mouse",
+    "PortuguesPt": "Sensibilidade do rato",
+    "InglesUs": "Mouse sensitivity",
+    "EspanholEs": "Sensibilidad del ratón",
+    "FrancesFr": "Sensibilité de la souris",
+    "RussoRu": "Чувствительность мыши",
+    "AlemaoDe": "Mausempfindlichkeit",
+    "JaponesJa": "マウス感度"
+  },
+  "#SEU#": {
+    "PortuguesBr": "Seu",
+    "PortuguesPt": "Seu",
+    "InglesUs": "Your",
+    "EspanholEs": "Su",
+    "FrancesFr": "Votre",
+    "RussoRu": "Ваш",
+    "AlemaoDe": "Ihr",
+    "JaponesJa": "あなたの"
+  },
+  "#SIM#": {
+    "PortuguesBr": "Sim",
+    "PortuguesPt": "Sim",
+    "InglesUs": "Yes",
+    "EspanholEs": "Sí",
+    "FrancesFr": "Oui",
+    "RussoRu": "Да",
+    "AlemaoDe": "Ja",
+    "JaponesJa": "はい"
+  },
+  "#SIMRETORNAMENUINICIAL#": {
+    "PortuguesBr": "Sim: Retorna ao menu inicial.",
+    "PortuguesPt": "Sim: Retorna ao menu inicial.",
+    "InglesUs": "Yes: Returns to the main menu.",
+    "EspanholEs": "Sí: Vuelve al menú principal.",
+    "FrancesFr": "Oui : Retourne au menu principal.",
+    "RussoRu": "Да: Возврат к главному меню.",
+    "AlemaoDe": "Ja: Rückkehr zum Hauptmenü.",
+    "JaponesJa": "はい：メインメニューに戻ります。"
+  },
+  "#SUA#": {
+    "PortuguesBr": "Sua",
+    "PortuguesPt": "Sua",
+    "InglesUs": "Your",
+    "EspanholEs": "Su",
+    "FrancesFr": "Votre",
+    "RussoRu": "Ваша",
+    "AlemaoDe": "Ihre",
+    "JaponesJa": "あなたの"
+  },
+  "#TAPETE#": {
+    "PortuguesBr": "Tapete",
+    "PortuguesPt": "Tapete",
+    "InglesUs": "Carpet",
+    "EspanholEs": "Alfombra",
+    "FrancesFr": "Tapis",
+    "RussoRu": "Ковер",
+    "AlemaoDe": "Teppich",
+    "JaponesJa": "カーペット"
+  },
+  "#CONFIRMACAOREMOVERUSUARIO#": {
+    "PortuguesBr": "Tem certeza que deseja remover o usuário",
+    "PortuguesPt": "Tem a certeza que deseja remover o utilizador",
+    "InglesUs": "Are you sure you want to remove the user",
+    "EspanholEs": "¿Estás seguro de que deseas eliminar al usuario",
+    "FrancesFr": "Êtes-vous sûr de vouloir supprimer utilisateur",
+    "RussoRu": "Вы уверены, что хотите удалить пользователя",
+    "AlemaoDe": "Sind Sie sicher, dass Sie den Benutzer entfernen möchten",
+    "JaponesJa": "ユーザーを削除してもよろしいですか"
+  },
+  "#TERRA#": {
+    "PortuguesBr": "Terra",
+    "PortuguesPt": "Terra",
+    "InglesUs": "Earth",
+    "EspanholEs": "Tierra",
+    "FrancesFr": "Terre",
+    "RussoRu": "Земля",
+    "AlemaoDe": "Erde",
+    "JaponesJa": "地球"
+  },
+  "#TEXTURA#": {
+    "PortuguesBr": "Textura",
+    "PortuguesPt": "Textura",
+    "InglesUs": "Texture",
+    "EspanholEs": "Textura",
+    "FrancesFr": "Texture",
+    "RussoRu": "Текстура",
+    "AlemaoDe": "Textur",
+    "JaponesJa": "テクスチャ"
+  },
+  "#TIJOLOS#": {
+    "PortuguesBr": "Tijolos",
+    "PortuguesPt": "Tijolos",
+    "InglesUs": "Bricks",
+    "EspanholEs": "Ladrillos",
+    "FrancesFr": "Briques",
+    "RussoRu": "Кирпичи",
+    "AlemaoDe": "Ziegelsteine",
+    "JaponesJa": "れんが"
+  },
+  "#TOTALIZADORDERECURSOSDIPONIVEISPARACONSTRUCAO_1#": {
+    "PortuguesBr": "Totalizador de recursos disponíveis pelo jogador para utilizar na construção de suas defesas.",
+    "PortuguesPt": "Totalizador de recursos disponíveis pelo jogador para utilizar na construção de suas defesas.",
+    "InglesUs": "Totalizer of resources available to the player for use in building their defenses.",
+    "EspanholEs": "Totalizador de recursos disponibles para el jugador para utilizar en la construcción de sus defensas.",
+    "FrancesFr": "Totalisateur de ressources disponibles pour le joueur pour utiliser dans la construction de ses défenses.",
+    "RussoRu": "Общий счетчик ресурсов, доступных игроку для использования в построении его обороны.",
+    "AlemaoDe": "Gesamtzähler der dem Spieler zur Verfügung stehenden Ressourcen zur Verwendung beim Bau seiner Verteidigung.",
+    "JaponesJa": "プレイヤーが防御を構築するために利用できるリソースの総量。"
+  },
+  "#TROCARUSUARIO#": {
+    "PortuguesBr": "Trocar Usuário",
+    "PortuguesPt": "Trocar Utilizador",
+    "InglesUs": "Change User",
+    "EspanholEs": "Cambiar Usuario",
+    "FrancesFr": "Changer d'Utilisateur",
+    "RussoRu": "Сменить пользователя",
+    "AlemaoDe": "Benutzer wechseln",
+    "JaponesJa": "ユーザーを変更"
+  },
+  "#USUARIO#": {
+    "PortuguesBr": "Usuário",
+    "PortuguesPt": "Utilizador",
+    "InglesUs": "User",
+    "EspanholEs": "Usuario",
+    "FrancesFr": "Utilisateur",
+    "RussoRu": "Пользователь",
+    "AlemaoDe": "Benutzer",
+    "JaponesJa": "ユーザー"
+  },
+  "#INFOUTILIZACAOBOTAODIREITOMOUSEPECAS_1#": {
+    "PortuguesBr": "Utilizando o botão direito do mouse, você pode adicionar as peças ao cenário. Com o botão esquerdo, você pode selecionar uma peça, e ao segurar a tecla SHIFT, é possível selecionar várias peças ao mesmo tempo.",
+    "PortuguesPt": "Usando o botão direito do mouse, você pode adicionar peças ao cenário. Com o botão esquerdo, você pode selecionar uma peça, e ao manter pressionada a tecla SHIFT, é possível selecionar várias peças ao mesmo tempo.",
+    "InglesUs": "By using the right mouse button, you can add Itens to the scenario. With the left button, you can select a piece, and by holding the SHIFT key, you can select multiple Itens at the same time.",
+    "EspanholEs": "Usando el botón derecho del ratón, puedes añadir piezas al escenario. Con el botón izquierdo, puedes seleccionar una pieza, y al mantener pulsada la tecla SHIFT, es posible seleccionar varias piezas al mismo tiempo.",
+    "FrancesFr": "En utilisant le bouton droit de la souris, vous pouvez ajouter des pièces au scénario. Avec le bouton gauche, vous pouvez sélectionner une pièce, et en maintenant la touche SHIFT enfoncée, vous pouvez sélectionner plusieurs pièces en même temps.",
+    "RussoRu": "Используя правую кнопку мыши, вы можете добавить детали в сценарий. Щелкнув левой кнопкой, вы можете выбрать деталь, и удерживая клавишу SHIFT, вы можете выбрать несколько деталей одновременно.",
+    "AlemaoDe": "Durch Verwenden der rechten Maustaste können Sie Teile zum Szenario hinzufügen. Mit der linken Taste können Sie ein Teil auswählen, und durch Halten der UMSCHALT-Taste können Sie mehrere Teile gleichzeitig auswählen.",
+    "JaponesJa": "マウスの右ボタンを使用して、シナリオにピースを追加できます。左ボタンを押しながらSHIFTキーを押すと、複数のピースを同時に選択できます。"
+  },
+  "#INFOUTILIZACAOSCROLMOUSEPARACAMERA_1#": {
+    "PortuguesBr": "Utilizando o scroll do mouse, você pode controlar o zoom da câmera, permitindo que você se aproxime ou se afaste dos objetos.",
+    "PortuguesPt": "Utilizando a roda de rolagem do mouse, você pode controlar o zoom da câmera, permitindo que você se aproxime ou se afaste dos objetos.",
+    "InglesUs": "By using the mouse scroll wheel, you can control the camera zoom, allowing you to zoom in or out on objects.",
+    "EspanholEs": "Usando la rueda de desplazamiento del ratón, puedes controlar el zoom de la cámara, permitiéndote acercarte o alejarte de los objetos.",
+    "FrancesFr": "En utilisant la molette de la souris, vous pouvez contrôler le zoom de la caméra, vous permettant de zoomer sur les objets.",
+    "RussoRu": "Используя колесо прокрутки мыши, вы можете управлять зумом камеры, позволяя вам приближаться или отдаляться от объектов.",
+    "AlemaoDe": "Durch Drehen des Mausrads können Sie den Kamerazoom steuern und sich so auf Objekte zoomen oder von ihnen entfernen.",
+    "JaponesJa": "マウスのスクロールを使用して、カメラのズームを制御し、オブジェクトに寄ったり離れたりできます。"
+  },
+  "#TOPICOATALHO_V_ALTERARVISAOJOGADOR#": {
+    "PortuguesBr": "V - Altera visão Player",
+    "PortuguesPt": "V - Altera visão Player",
+    "InglesUs": "V - Change Player View",
+    "EspanholEs": "V - Cambia la vista del jugador",
+    "FrancesFr": "V - Changer la vue du joueur",
+    "RussoRu": "V - Изменяет вид игрока",
+    "AlemaoDe": "V - Spieleransicht ändern",
+    "JaponesJa": "V - プレイヤーの視点を変更"
+  },
+  "#VERCONTROLES#": {
+    "PortuguesBr": "Ver Controles",
+    "PortuguesPt": "Ver Controles",
+    "InglesUs": "View Controls",
+    "EspanholEs": "Ver Controles",
+    "FrancesFr": "Voir les contrôles",
+    "RussoRu": "Просмотреть управление",
+    "AlemaoDe": "Steuerelemente anzeigen",
+    "JaponesJa": "コントロールを表示する"
+  },
+  "#VERTICAL#": {
+    "PortuguesBr": "Vertical",
+    "PortuguesPt": "Vertical",
+    "InglesUs": "Vertical",
+    "EspanholEs": "Vertical",
+    "FrancesFr": "Vertical",
+    "RussoRu": "Вертикаль",
+    "AlemaoDe": "Vertikal",
+    "JaponesJa": "垂直"
+  },
+  "#VIDRO#": {
+    "PortuguesBr": "Vidro",
+    "PortuguesPt": "Vidro",
+    "InglesUs": "Glass",
+    "EspanholEs": "Vidrio",
+    "FrancesFr": "Verre",
+    "RussoRu": "Стекло",
+    "AlemaoDe": "Glas",
+    "JaponesJa": "ガラス"
+  },
+  "#INFOWORLDOFBLOCKS#": {
+    "PortuguesBr": "World of Blocks é um jogo desenvolvido por duas pessoas, é com grande entusiasmo que apresentamos o novo modo 'Tower Defense', que combina construção com sobrevivência. Este modo encontra-se em fase Beta, o que significa que estamos comprometidos em aprimorá-lo constantemente. Durante esta fase, estaremos realizando ajustes de equilíbrio e corrigindo eventuais bugs que possam surgir. Além disso, estamos empolgados em compartilhar que estamos planejando adicionar novidades emocionantes, como novos mapas, armas e monstros, para enriquecer ainda mais sua experiência de jogo.",
+    "PortuguesPt": "World of Blocks é um jogo desenvolvido por duas pessoas, é com grande entusiasmo que apresentamos o novo modo 'Tower Defense', que combina construção com sobrevivência. Este modo encontra-se em fase Beta, o que significa que estamos comprometidos em aprimorá-lo constantemente. Durante esta fase, estaremos realizando ajustes de equilíbrio e corrigindo eventuais bugs que possam surgir. Além disso, estamos empolgados em compartilhar que estamos planejando adicionar novidades emocionantes, como novos mapas, armas e monstros, para enriquecer ainda mais sua experiência de jogo.",
+    "InglesUs": "World of Blocks is a game developed by two people, and it is with great enthusiasm that we introduce the new 'Tower Defense' mode, which combines building with survival. This mode is currently in Beta, which means we are committed to constantly improving it. During this phase, we will be making balance adjustments and fixing any bugs that may arise. Additionally, we are excited to share that we are planning to add exciting new features, such as new maps, weapons, and monsters, to further enrich your gaming experience.",
+    "EspanholEs": "World of Blocks es un juego desarrollado por dos personas, y es con gran entusiasmo que presentamos el nuevo modo 'Tower Defense', que combina construcción con supervivencia. Este modo se encuentra en fase Beta, lo que significa que estamos comprometidos a mejorarlo constantemente. Durante esta fase, estaremos realizando ajustes de equilibrio y corrigiendo posibles errores que puedan surgir. Además, estamos emocionados de compartir que estamos planeando agregar nuevas características emocionantes, como nuevos mapas, armas y monstruos, para enriquecer aún más tu experiencia de juego.",
+    "FrancesFr": "World of Blocks est un jeu développé par deux personnes, et c est avec beaucoup d enthousiasme que nous présentons le nouveau mode 'Tower Defense', qui combine la construction avec la survie. Ce mode est actuellement en version bêta, ce qui signifie que nous nous engageons à l améliorer constamment. Pendant cette phase, nous apporterons des ajustements d équilibrage et corrigerons les bugs qui pourraient survenir. De plus, nous sommes ravis de vous annoncer que nous prévoyons d ajouter de nouvelles fonctionnalités passionnantes, telles que de nouveaux cartes, armes et monstres, pour enrichir encore plus votre expérience de jeu.",
+    "RussoRu": "World of Blocks - игра, разработанная двумя людьми, и с огромным энтузиазмом мы представляем новый режим 'Tower Defense', который сочетает в себе строительство и выживание. Этот режим находится в бета-версии, что означает, что мы стремимся постоянно улучшать его. В течение этой фазы мы будем проводить балансировку и исправлять любые ошибки, которые могут возникнуть. Кроме того, с радостью сообщаем, что мы планируем добавить новые захватывающие функции, такие как новые карты, оружие и монстры, чтобы еще больше обогатить ваш опыт игры.",
+    "AlemaoDe": "World of Blocks ist ein Spiel, das von zwei Personen entwickelt wurde, und wir präsentieren voller Begeisterung den neuen Modus 'Tower Defense', der Bauen mit Überleben kombiniert. Dieser Modus befindet sich derzeit in der Beta-Phase, was bedeutet, dass wir uns verpflichtet fühlen, ihn ständig zu verbessern. Während dieser Phase werden wir Balance-Anpassungen vornehmen und mögliche Fehler beheben. Außerdem freuen wir uns, bekannt zu geben, dass wir planen, aufregende neue Funktionen wie neue Karten, Waffen und Monster hinzuzufügen, um Ihr Spielerlebnis noch weiter zu bereichern.",
+    "JaponesJa": "World of Blocksは、2人の開発者によって開発されたゲームであり、建設とサバイバルを組み合わせた新しい「タワーディフェンス」モードを紹介することは大変嬉しく思います。 このモードは現在ベータ版です。これは、常に改善に取り組んでいることを意味します。 このフェーズでは、バランスの調整を行い、発生する可能性のあるバグを修正します。 さらに、新しいマップ、武器、モンスターなど、新しい機能を追加する予定であることをお知らせできることを嬉しく思います。 ゲームを楽しんでください。"
+  },
+  "#NIVEL#": {
+    "PortuguesBr": "Nível",
+    "PortuguesPt": "Nível",
+    "InglesUs": "Level",
+    "EspanholEs": "Nivel",
+    "FrancesFr": "Niveau",
+    "RussoRu": "Уровень",
+    "AlemaoDe": "Niveau",
+    "JaponesJa": "レベル"
+  },
+  "#NIVELCOMDOISPONTOS#": {
+    "PortuguesBr": "Nível:",
+    "PortuguesPt": "Nível:",
+    "InglesUs": "Level:",
+    "EspanholEs": "Nivel:",
+    "FrancesFr": "Niveau:",
+    "RussoRu": "Уровень:",
+    "AlemaoDe": "Niveau:",
+    "JaponesJa": "レベル:"
+  }
+}
