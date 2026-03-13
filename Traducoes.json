@@ -1,6 +1,6 @@
 {
   "World of Blocks": {
-      "#TOPICOABREMENUOBJETOS#": {
+    "#TOPICOABREMENUOBJETOS#": {
       "PortuguesBr": "* O : Abre o menu de objetos",
       "PortuguesPt": "* O : Abre o menu de objetos",
       "InglesUs": "* O : Opens the object menu",
@@ -9,10 +9,10 @@
       "RussoRu": "* O : Открывает меню объектов",
       "AlemaoDe": "* O : Öffnet das Objektmenü",
       "JaponesJa": "* O : オブジェクトメニューを開きます",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "* O : 객체 메뉴를 엽니다",
+      "Italiano": "* O : Apre il menu degli oggetti"
     },
-	"#TOPICOABREMENUTEXTURAS#": {
+    "#TOPICOABREMENUTEXTURAS#": {
       "PortuguesBr": "* T : Abre o menu de texturas",
       "PortuguesPt": "* T : Abre o menu de texturas",
       "InglesUs": "* T : Opens the texture menu",
@@ -21,10 +21,10 @@
       "RussoRu": "* T : Открывает меню текстур",
       "AlemaoDe": "* T : Öffnet das Texturmenü",
       "JaponesJa": "* T : テクスチャメニューを開きます",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "* T: 텍스처 메뉴를 엽니다",
+      "Italiano": "* T: Apre il menu delle texture"
     },
-	"#TOPICOADICAOSELECAO#": {
+    "#TOPICOADICAOSELECAO#": {
       "PortuguesBr": "- Adição/Seleção",
       "PortuguesPt": "- Adição/Seleção",
       "InglesUs": "- Addition/Selection",
@@ -33,8 +33,8 @@
       "RussoRu": "- Добавление/Выбор",
       "AlemaoDe": "- Hinzufügen/Auswahl",
       "JaponesJa": "- 追加/選択",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "- 추가/선택",
+      "Italiano": "- Aggiunta/Selezione"
     },
     "#TOPICOINFOIMPORTACAOTEXTURAS_1#": {
       "PortuguesBr": "- Após a importação das texturas, as mesmas serão exibidas no menu de texturas prontas para o uso.",
@@ -45,8 +45,8 @@
       "RussoRu": "- После импорта текстур они будут отображаться в меню готовых к использованию текстур.",
       "AlemaoDe": "- Nach dem Import der Texturen werden sie im Menü der verwendungsbereiten Texturen angezeigt.",
       "JaponesJa": "- テクスチャのインポート後、それらは使用可能なテクスチャのメニューに表示されます。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "텍스처를 불러오면 바로 사용할 수 있는 텍스처 메뉴에 표시됩니다.",
+      "Italiano": "Dopo aver importato le texture, queste verranno visualizzate nel menu delle texture pronte all'uso."
     },
     "#TOPICOINFOIMPORTACAOTEXTURAS_2#": {
       "PortuguesBr": "- As texturas são carregadas na abertura do jogo, caso inseridas durante a gameplay será necessário reiniciar.",
@@ -57,8 +57,8 @@
       "RussoRu": "- Текстуры загружаются при запуске игры, в случае вставки во время игры потребуется перезапуск.",
       "AlemaoDe": "- Die Texturen werden beim Öffnen des Spiels geladen. Wenn sie während des Spiels eingefügt werden, ist ein Neustart erforderlich.",
       "JaponesJa": "- テクスチャはゲームの開始時に読み込まれます。ゲームプレイ中に挿入された場合、再起動が必要です。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "- 텍스처는 게임 시작 시 로드됩니다. 게임 플레이 중에 추가하면 게임을 다시 시작해야 합니다.",
+      "Italiano": "- Le texture vengono caricate all'avvio del gioco; se vengono aggiunte durante il gioco, sarà necessario riavviare il gioco."
     },
     "#TOPICOINFOIMPORTACAOTEXTURAS_3#": {
       "PortuguesBr": "- Criar as pastas dentro de documents 'WOB\\\\Texturas'.",
@@ -69,8 +69,8 @@
       "RussoRu": "- Создать папки внутри документов 'WOB\\\\Texturas'.",
       "AlemaoDe": "- Ordner in Dokumenten erstellen 'WOB\\\\Texturas'.",
       "JaponesJa": "- ドキュメント内にフォルダを作成する 'WOB\\\\Texturas'.",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "- 문서 폴더 안에 'WOB\\\\Textures' 폴더를 생성하세요.",
+      "Italiano": "- Crea le cartelle all'interno della cartella Documenti 'WOB\\\\Textures'."
     },
     "#TOPICOINFOIMPORTACAOTEXTURAS_4#": {
       "PortuguesBr": "- Dentro desta pasta você pode criar outras pastas para classificar as texturas ex: Tecidos\\Algodao.png.",
@@ -81,8 +81,8 @@
       "RussoRu": "- В этой папке вы можете создавать другие папки для классификации текстур, например: Ткани\\Хлопок.png.",
       "AlemaoDe": "- In diesem Ordner können Sie andere Ordner erstellen, um Texturen zu klassifizieren, z.B.: Stoffe\\Baumwolle.png.",
       "JaponesJa": "- このフォルダの中に、例えば Fabrics\\Cotton.png のように、他のフォルダを作成してテクスチャを分類することができます。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "- 이 폴더 안에 텍스처를 분류하기 위한 하위 폴더를 만들 수 있습니다. 예를 들어, Fabrics\\Cotton.png와 같이 만들 수 있습니다.",
+      "Italiano": "- All'interno di questa cartella è possibile creare altre cartelle per classificare le texture, ad esempio Tessuti\\Cotone.png."
     },
     "#TOPICOEDICAOREMOCAO#": {
       "PortuguesBr": "- Edição/Remoção",
@@ -93,8 +93,8 @@
       "RussoRu": "- Редактирование/Удаление",
       "AlemaoDe": "- Bearbeiten/Entfernen",
       "JaponesJa": "- 編集/削除",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "편집/삭제",
+      "Italiano": "Modifica/Rimozione"
     },
     "#TOPICOMENUPECAS#": {
       "PortuguesBr": "- Menu de Peças:",
@@ -105,8 +105,8 @@
       "RussoRu": "- Меню деталей:",
       "AlemaoDe": "- Teilemenü:",
       "JaponesJa": "- ピースメニュー:",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "부품 메뉴:",
+      "Italiano": "Menu dei componenti:"
     },
     "#TOPICOMOVIMENTO#": {
       "PortuguesBr": "- Movimento",
@@ -117,8 +117,8 @@
       "RussoRu": "- Движение",
       "AlemaoDe": "- Bewegung",
       "JaponesJa": "- 動き",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "- 움직임",
+      "Italiano": "- Movimento"
     },
     "#TOPICOINFOIMENUFERRAMENTASBLOCOS#": {
       "PortuguesBr": "- Neste menu é possível encontrar algumas ferramentas de edição de blocos:",
@@ -129,8 +129,8 @@
       "RussoRu": "- В этом меню вы найдете некоторые инструменты редактирования блоков:",
       "AlemaoDe": "- In diesem Menü finden Sie einige Werkzeuge zur Bearbeitung von Blöcken:",
       "JaponesJa": "- このメニューでは、いくつかのブロック編集ツールを見つけることができます。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "- 이 메뉴에서 몇 가지 블록 편집 도구를 찾을 수 있습니다.",
+      "Italiano": "- In questo menu puoi trovare alcuni strumenti di modifica a blocchi:"
     },
     "#TOPICOINFOIMPORTACAOTEXTURAS_5#": {
       "PortuguesBr": "- Todas as texturas importadas no jogo devem estar no formato PNG, recomendamos utilizar o tamanho 512X512 ou 1024X1024.",
@@ -141,8 +141,8 @@
       "RussoRu": "- Все текстуры, импортированные в игру, должны быть в формате PNG, рекомендуется использовать размер 512X512 или 1024X1024.",
       "AlemaoDe": "- Alle Texturen, die im Spiel importiert werden, müssen im PNG-Format sein. Wir empfehlen die Verwendung der Größe 512X512 oder 1024X1024.",
       "JaponesJa": "- ゲームにインポートされるすべてのテクスチャはPNG形式である必要があります。サイズは512X512または1024X1024を推奨します。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "- 게임에 불러오는 모든 텍스처는 PNG 형식이어야 하며, 512x512 또는 1024x1024 크기를 권장합니다.",
+      "Italiano": "- Tutte le texture importate nel gioco devono essere in formato PNG; si consiglia di utilizzare una dimensione di 512x512 o 1024x1024."
     },
     "#TOPICOZOOMCAMERA#": {
       "PortuguesBr": "- Zoom Camera",
@@ -153,9 +153,10 @@
       "RussoRu": "- Зум Камеры",
       "AlemaoDe": "- Zoom Kamera",
       "JaponesJa": "- ズーム カメラ",
-      "Coreano": "",
-      "Italiano": ""
-    },"#TOPICOACESSORAPIDOCONFIGURACOES#": {
+      "Coreano": "- 줌 카메라",
+      "Italiano": "- Zoom della fotocamera"
+    },
+    "#TOPICOACESSORAPIDOCONFIGURACOES#": {
       "PortuguesBr": "A. Acesso rápido ao menu de configurações.",
       "PortuguesPt": "A. Acesso rápido ao menu de configurações.",
       "InglesUs": "A. Quick access to the settings menu.",
@@ -164,8 +165,8 @@
       "RussoRu": "A. Быстрый доступ к меню настроек.",
       "AlemaoDe": "A. Schneller Zugriff auf das Einstellungsmenü.",
       "JaponesJa": "A. 設定メニューへのクイックアクセス。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "A. 설정 메뉴에 빠르게 접근할 수 있습니다.",
+      "Italiano": "A. Accesso rapido al menu delle impostazioni."
     },
     "#TOPICODELETEPECASSELECIONADAS#": {
       "PortuguesBr": "A. O botão DEL deleta as peças selecionadas.",
@@ -176,8 +177,8 @@
       "RussoRu": "A. Кнопка DEL удаляет выбранные детали.",
       "AlemaoDe": "A. Die DEL-Taste löscht die ausgewählten Teile.",
       "JaponesJa": "A. DELボタンは選択したピースを削除します.",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "A. DEL 버튼은 선택된 부분을 삭제합니다.",
+      "Italiano": "A. Il tasto CANC elimina le parti selezionate."
     },
     "#TOPICOATALHOSMOVIMENTACAOPELOMAPA#": {
       "PortuguesBr": "A. Utilizando W, A, S e D você poderá movimentar-se pelo mapa.",
@@ -188,8 +189,8 @@
       "RussoRu": "A. Используя клавиши W, A, S и D, вы можете перемещаться по карте.",
       "AlemaoDe": "A. Mit W, A, S und D können Sie sich auf der Karte bewegen.",
       "JaponesJa": "A. W、A、S、Dを使用してマップを移動できます。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "A. W, A, S, D 키를 사용하여 지도에서 이동할 수 있습니다.",
+      "Italiano": "A. Utilizzando i tasti W, A, S e D è possibile spostarsi sulla mappa."
     },
     "#PERGUNTAACEITARDERROTA#": {
       "PortuguesBr": "Aceitar derrota?",
@@ -200,8 +201,8 @@
       "RussoRu": "Принять поражение?",
       "AlemaoDe": "Niederlage akzeptieren?",
       "JaponesJa": "敗北を受け入れますか？",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "패배를 인정하시겠습니까?",
+      "Italiano": "Accettare la sconfitta?"
     },
     "#APLICARSELECAO#": {
       "PortuguesBr": "Aplicar seleção",
@@ -212,8 +213,8 @@
       "RussoRu": "Применить выбор",
       "AlemaoDe": "Auswahl anwenden",
       "JaponesJa": "選択を適用する",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "선택 적용",
+      "Italiano": "Applica la selezione"
     },
     "#INFOFORMASBASICAS#": {
       "PortuguesBr": "Aqui você pode encontrar as formas mais básicas que podem ser utilizadas.",
@@ -224,8 +225,8 @@
       "RussoRu": "Здесь вы можете найти самые базовые формы, которые можно использовать.",
       "AlemaoDe": "Hier finden Sie die grundlegendsten Formen, die verwendet werden können.",
       "JaponesJa": "ここでは、使用可能な最も基本的な形状を見つけることができます。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "여기에서 사용할 수 있는 가장 기본적인 양식을 찾을 수 있습니다.",
+      "Italiano": "Qui puoi trovare i moduli più semplici che possono essere utilizzati."
     },
     "#INFOPECASEXISTENTES#": {
       "PortuguesBr": "Aqui você pode encontrar todas as peças existentes no game.",
@@ -236,10 +237,10 @@
       "RussoRu": "Здесь вы можете найти все существующие детали в игре.",
       "AlemaoDe": "Hier finden Sie alle im Spiel vorhandenen Teile.",
       "JaponesJa": "ここでは、ゲーム内で使用可能なすべてのピースを見つけることができます。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "여기에서 게임에 존재하는 모든 구성 요소를 찾을 수 있습니다.",
+      "Italiano": "Qui puoi trovare tutti i pezzi presenti nel gioco."
     },
-	"#TOPICOABREMENUAJUDA#": {
+    "#TOPICOABREMENUAJUDA#": {
       "PortuguesBr": "* H : Abre o menu de ajuda",
       "PortuguesPt": "* H : Abre o menu de ajuda",
       "InglesUs": "* H : Opens the help menu",
@@ -248,9 +249,9 @@
       "RussoRu": "* H : Открывает меню справки",
       "AlemaoDe": "* H : Öffnet das Hilfemenü",
       "JaponesJa": "* H : ヘルプメニューを開きます",
-      "Coreano": "",
-      "Italiano": ""
-    }, 
+      "Coreano": "* H: 도움말 메뉴를 엽니다",
+      "Italiano": "* H: Apre il menu di aiuto"
+    },
     "#TOPICOACESSORAPIDO#": {
       "PortuguesBr": "- Acesso Rápido",
       "PortuguesPt": "- Acesso Rápido",
@@ -260,8 +261,8 @@
       "RussoRu": "- Быстрый доступ",
       "AlemaoDe": "- Schnellzugriff",
       "JaponesJa": "- クイックアクセス",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "빠른 액세스",
+      "Italiano": "Accesso rapido"
     },
     "#TOPICOROTACIONARPECASMAPA#": {
       "PortuguesBr": "B. As setas rotacionam as peças no mapa.",
@@ -272,8 +273,8 @@
       "RussoRu": "B. Стрелки вращают детали на карте.",
       "AlemaoDe": "B. Die Pfeile drehen die Teile auf der Karte.",
       "JaponesJa": "B. 矢印は地図上のピースを回転させます。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "B. 화살표는 지도상의 조각들을 회전시킵니다.",
+      "Italiano": "B. Le frecce ruotano i pezzi sulla mappa."
     },
     "#TOPICOSELECAOTEXTURA#": {
       "PortuguesBr": "B. Seleção de textura.",
@@ -284,8 +285,8 @@
       "RussoRu": "B. Выбор текстуры.",
       "AlemaoDe": "B. Texturauswahl.",
       "JaponesJa": "B. テクスチャの選択。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "B. 텍스처 선택.",
+      "Italiano": "B. Selezione della texture."
     },
     "#TOPICOATALHOSDESCERSUBIRCAMERA#": {
       "PortuguesBr": "B. Utilizando Q, E você poderá subir ou descer a câmera.",
@@ -296,9 +297,10 @@
       "RussoRu": "B. Используя Q, E, вы можете поднимать или опускать камеру.",
       "AlemaoDe": "B. Mit Q, E können Sie die Kamera nach oben oder unten bewegen.",
       "JaponesJa": "B. Q、Eを使用してカメラを上下に移動できます。",
-      "Coreano": "",
-      "Italiano": ""
-    },"#BLOCOSEPECAS#": {
+      "Coreano": "B. Q와 E 키를 사용하여 카메라를 위아래로 움직일 수 있습니다.",
+      "Italiano": "B. Utilizzando i tasti Q ed E, è possibile spostare la telecamera verso l'alto o verso il basso."
+    },
+    "#BLOCOSEPECAS#": {
       "PortuguesBr": "Blocos e Peças",
       "PortuguesPt": "Blocos e Peças",
       "InglesUs": "Blocks and Itens",
@@ -307,8 +309,8 @@
       "RussoRu": "Блоки и Детали",
       "AlemaoDe": "Blöcke und Teile",
       "JaponesJa": "ブロックとピース",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "블록과 조각들",
+      "Italiano": "Blocchi e pezzi"
     },
     "#TOPICOROTACIONARVERTICALMENTE#": {
       "PortuguesBr": "C. Rotacionar Verticalmente.",
@@ -319,8 +321,8 @@
       "RussoRu": "C. Повернуть по вертикали.",
       "AlemaoDe": "C. Vertikal drehen.",
       "JaponesJa": "C. 垂直に回転。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "C. 세로로 회전합니다.",
+      "Italiano": "C. Ruotare verticalmente."
     },
     "#CONSTRUCAO#": {
       "PortuguesBr": "CONSTRUÇÃO",
@@ -331,9 +333,10 @@
       "RussoRu": "СТРОИТЕЛЬСТВО",
       "AlemaoDe": "BAU",
       "JaponesJa": "建設",
-      "Coreano": "",
-      "Italiano": ""
-    },"#CARPETE#": {
+      "Coreano": "건설",
+      "Italiano": "COSTRUZIONE"
+    },
+    "#CARPETE#": {
       "PortuguesBr": "Carpete",
       "PortuguesPt": "Tapete",
       "InglesUs": "Carpet",
@@ -342,8 +345,8 @@
       "RussoRu": "Ковер",
       "AlemaoDe": "Teppich",
       "JaponesJa": "カーペット",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "양탄자",
+      "Italiano": "Tappeto"
     },
     "#CASA#": {
       "PortuguesBr": "Casa",
@@ -354,8 +357,8 @@
       "RussoRu": "Дом",
       "AlemaoDe": "Haus",
       "JaponesJa": "家",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "집",
+      "Italiano": "Casa"
     },
     "#COLOCARPECA#": {
       "PortuguesBr": "Colocar peça",
@@ -366,9 +369,10 @@
       "RussoRu": "Поместить деталь",
       "AlemaoDe": "Block setzen",
       "JaponesJa": "ピースを置く",
-      "Coreano": "",
-      "Italiano": ""
-    },"#COR#": {
+      "Coreano": "장소 부분",
+      "Italiano": "Posizionare parte"
+    },
+    "#COR#": {
       "PortuguesBr": "Cor",
       "PortuguesPt": "Cor",
       "InglesUs": "Color",
@@ -377,8 +381,8 @@
       "RussoRu": "Цвет",
       "AlemaoDe": "Farbe",
       "JaponesJa": "色",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "코르",
+      "Italiano": "Cor"
     },
     "#CORES#": {
       "PortuguesBr": "Cores",
@@ -389,8 +393,8 @@
       "RussoRu": "Цвета",
       "AlemaoDe": "Farben",
       "JaponesJa": "色",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "코어",
+      "Italiano": "Nuclei"
     },
     "#INFOCUSTOINSERIRFORMA#": {
       "PortuguesBr": "Custo necessário para inserir a forma, objeto ou arma no seu mundo. Cada inimigo derrotado recompensará o jogador com recursos que podem ser utilizados na construção de fortificações e defesas.",
@@ -401,8 +405,8 @@
       "RussoRu": "Стоимость для вставки формы, объекта или оружия в ваш мир. Каждый побежденный враг вознаградит игрока ресурсами, которые можно использовать для построения укреплений и обороны.",
       "AlemaoDe": "Kosten, um die Form, das Objekt oder die Waffe in deine Welt einzufügen. Jeder besiegte Feind belohnt den Spieler mit Ressourcen, die zum Bau von Befestigungen und Verteidigungen verwendet werden können.",
       "JaponesJa": "フォーム、オブジェクト、または武器を世界に挿入するために必要なコスト。各敵を倒すと、プレイヤーは要塞や防御の建設に使用できるリソースで報酬されます。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "해당 모양, 물체 또는 무기를 월드에 추가하는 데 필요한 비용입니다. 적을 물리칠 때마다 플레이어는 요새와 방어 시설을 건설하는 데 사용할 수 있는 자원을 얻습니다.",
+      "Italiano": "Costo necessario per inserire la forma, l'oggetto o l'arma nel tuo mondo. Ogni nemico sconfitto ricompenserà il giocatore con risorse utilizzabili per costruire fortificazioni e difese."
     },
     "#TOPICOROTACIONARHORIZONTALMENTE#": {
       "PortuguesBr": "D. Rotacionar Horizontalmente.",
@@ -413,8 +417,8 @@
       "RussoRu": "D. Повернуть по горизонтали.",
       "AlemaoDe": "D. Horizontal drehen.",
       "JaponesJa": "D. 水平に回転。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "D. 수평으로 회전합니다.",
+      "Italiano": "D. Ruotare orizzontalmente."
     },
     "#DEFENDASUABASE#": {
       "PortuguesBr": "DEFENDA SUA BASE",
@@ -425,8 +429,8 @@
       "RussoRu": "ЗАЩИТИТЕ СВОЮ БАЗУ",
       "AlemaoDe": "VERTEIDIGE DEINE BASIS",
       "JaponesJa": "基地を守る",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "기지를 방어하세요",
+      "Italiano": "DIFENDI LA TUA BASE"
     },
     "#DEFESAS#": {
       "PortuguesBr": "Defesas",
@@ -437,8 +441,8 @@
       "RussoRu": "Защиты",
       "AlemaoDe": "Verteidigungen",
       "JaponesJa": "防御",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "방어 시설",
+      "Italiano": "Difese"
     },
     "#DELETARPECA#": {
       "PortuguesBr": "Deletar peça",
@@ -449,8 +453,8 @@
       "RussoRu": "Удалить деталь",
       "AlemaoDe": "Stück löschen",
       "JaponesJa": "ピースを削除",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "항목 삭제",
+      "Italiano": "Elimina elemento"
     },
     "#INFORODADAATUAL_1#": {
       "PortuguesBr": "Dependendo da sua rodada atual, a quantidade de inimigos aumenta e novos inimigos surgirão.",
@@ -461,8 +465,8 @@
       "RussoRu": "В зависимости от вашего текущего раунда количество врагов увеличивается, и появятся новые враги.",
       "AlemaoDe": "Je nach Ihrem aktuellen Durchgang erhöht sich die Anzahl der Feinde und neue Feinde tauchen auf.",
       "JaponesJa": "現在のラウンドに応じて、敵の数が増え、新しい敵が現れます。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "현재 턴에 따라 적의 수가 증가하고 새로운 적이 나타납니다.",
+      "Italiano": "A seconda del turno in corso, il numero di nemici aumenta e ne compaiono di nuovi."
     },
     "#PERGUNTADESEJAREMOVERMAPA#": {
       "PortuguesBr": "Deseja realmente remover o mapa",
@@ -473,8 +477,8 @@
       "RussoRu": "Вы действительно хотите удалить карту",
       "AlemaoDe": "Möchten Sie die Karte wirklich entfernen",
       "JaponesJa": "本当にマップを削除しますか",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "정말 지도를 삭제하고 싶으신 건가요?",
+      "Italiano": "Vuoi davvero rimuovere la mappa?"
     },
     "#DIVIRTASEEXPLORANDOEDEFENDENDO#": {
       "PortuguesBr": "Divirta-se explorando e defendendo!",
@@ -485,8 +489,8 @@
       "RussoRu": "Приятного исследования и обороны!",
       "AlemaoDe": "Viel Spaß beim Erkunden und Verteidigen!",
       "JaponesJa": "探検と防御をお楽しみください！",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "탐험하고 방어하는 재미를 만끽하세요!",
+      "Italiano": "Divertiti a esplorare e a difendere!"
     },
     "#TOPICOREMOVERBLOCO#": {
       "PortuguesBr": "E. Remover Bloco.",
@@ -497,9 +501,10 @@
       "RussoRu": "E. Удалить блок.",
       "AlemaoDe": "E. Block entfernen.",
       "JaponesJa": "E. ブロックを削除。",
-      "Coreano": "",
-      "Italiano": ""
-    },"#TECLAATALHOENTERMODOCONSTRUCAO#": {
+      "Coreano": "E. 차단을 제거합니다.",
+      "Italiano": "E. Rimuovi blocco."
+    },
+    "#TECLAATALHOENTERMODOCONSTRUCAO#": {
       "PortuguesBr": "ENTER - Ativa Modo Construção",
       "PortuguesPt": "ENTER - Ativa Modo Construção",
       "InglesUs": "ENTER - Activates Build Mode",
@@ -508,8 +513,8 @@
       "RussoRu": "ENTER - Активирует режим построения",
       "AlemaoDe": "ENTER - Aktiviert den Baumodus",
       "JaponesJa": "ENTER - 建設モードを有効にする",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "ENTER - 건설 모드를 활성화합니다",
+      "Italiano": "INVIO - Attiva la modalità di costruzione"
     },
     "#EDICAOPECAS#": {
       "PortuguesBr": "Edição de Peças",
@@ -520,8 +525,8 @@
       "RussoRu": "Редактирование деталей",
       "AlemaoDe": "Bearbeiten von Teilen",
       "JaponesJa": "ピースの編集",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "파트 편집",
+      "Italiano": "Modifica delle parti"
     },
     "#ELIMINE#": {
       "PortuguesBr": "Elimine",
@@ -532,9 +537,10 @@
       "RussoRu": "Удалить",
       "AlemaoDe": "Beseitigen",
       "JaponesJa": "排除します",
-      "Coreano": "",
-      "Italiano": ""
-    },"#FECHARMENUS#": {
+      "Coreano": "제거하다",
+      "Italiano": "Eliminare"
+    },
+    "#FECHARMENUS#": {
       "PortuguesBr": "Fechar menus",
       "PortuguesPt": "Fechar menus",
       "InglesUs": "Close menus",
@@ -543,8 +549,8 @@
       "RussoRu": "Закрыть меню",
       "AlemaoDe": "Menüs schließen",
       "JaponesJa": "メニューを閉じる",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "메뉴 닫기",
+      "Italiano": "Chiudi i menu"
     },
     "#INFOFERRAMENTABRUSH_1#": {
       "PortuguesBr": "Ferramenta brush - Utilize o botão esquerdo do mouse para colocar um grupo de peças.",
@@ -555,8 +561,8 @@
       "RussoRu": "Инструмент кисти - Используйте левую кнопку мыши, чтобы разместить группу деталей.",
       "AlemaoDe": "Pinselwerkzeug - Verwenden Sie die linke Maustaste, um eine Gruppe von Teilen zu platzieren.",
       "JaponesJa": "ブラシツール - 左マウスボタンを使用して一連のピースを配置します。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "브러시 도구 - 마우스 왼쪽 버튼을 사용하여 조각들을 그룹으로 배치하세요.",
+      "Italiano": "Strumento Pennello: usa il pulsante sinistro del mouse per posizionare un gruppo di elementi."
     },
     "#INFOFERRAMENTAPADRAO_1#": {
       "PortuguesBr": "Ferramenta padrão - Utilize o botão esquerdo do mouse para adicionar blocos e o botão direito para selecionar.",
@@ -567,8 +573,8 @@
       "RussoRu": "Стандартный инструмент - Используйте левую кнопку мыши для добавления блоков и правую кнопку для выбора.",
       "AlemaoDe": "Standardwerkzeug - Verwenden Sie die linke Maustaste, um Blöcke hinzuzufügen, und die rechte Taste, um auszuwählen.",
       "JaponesJa": "デフォルトツール - ブロックを追加するには左ボタンを、選択するには右ボタンを使用してください。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "기본 도구 - 마우스 왼쪽 버튼으로 블록을 추가하고 마우스 오른쪽 버튼으로 선택합니다.",
+      "Italiano": "Strumento standard: usa il pulsante sinistro del mouse per aggiungere blocchi e il pulsante destro per selezionarli."
     },
     "#INFOFERRAMENTAPONTOS_1#": {
       "PortuguesBr": "Ferramenta pontos - Adicione pontos utilizando o botão esquerdo do mouse, pressione a tecla ENTER para confirmar.",
@@ -579,10 +585,10 @@
       "RussoRu": "Инструмент точек - Добавьте точки, используя левую кнопку мыши, нажмите ENTER для подтверждения.",
       "AlemaoDe": "Punkte-Werkzeug - Fügen Sie Punkte mit der linken Maustaste hinzu und drücken Sie die EINGABETASTE, um zu bestätigen.",
       "JaponesJa": "ポイントツール - 左マウスボタンを使用してポイントを追加し、確認するにはENTERキーを押してください。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "점 도구 - 마우스 왼쪽 버튼을 사용하여 점을 추가하고, Enter 키를 눌러 확인합니다.",
+      "Italiano": "Strumento Punti - Aggiungi punti utilizzando il pulsante sinistro del mouse, premi il tasto INVIO per confermare."
     },
-	"#FOLHA#": {
+    "#FOLHA#": {
       "PortuguesBr": "Folha",
       "PortuguesPt": "Folha",
       "InglesUs": "Leaf",
@@ -591,8 +597,8 @@
       "RussoRu": "Лист",
       "AlemaoDe": "Blatt",
       "JaponesJa": "葉",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "시트",
+      "Italiano": "Foglio"
     },
     "#FOLHAS#": {
       "PortuguesBr": "Folhas",
@@ -603,9 +609,10 @@
       "RussoRu": "Листья",
       "AlemaoDe": "Blätter",
       "JaponesJa": "葉",
-      "Coreano": "",
-      "Italiano": ""
-    },"#HOME#": {
+      "Coreano": "시트",
+      "Italiano": "Fogli"
+    },
+    "#HOME#": {
       "PortuguesBr": "Home",
       "PortuguesPt": "Home",
       "InglesUs": "Home",
@@ -614,10 +621,10 @@
       "RussoRu": "Дом",
       "AlemaoDe": "Startseite",
       "JaponesJa": "ホーム",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "집",
+      "Italiano": "Casa"
     },
-	"#GRAMA#": {
+    "#GRAMA#": {
       "PortuguesBr": "Grama",
       "PortuguesPt": "Relva",
       "InglesUs": "Grass",
@@ -626,10 +633,10 @@
       "RussoRu": "Трава",
       "AlemaoDe": "Gras",
       "JaponesJa": "草",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "그램",
+      "Italiano": "Grammo"
     },
-	"#IMPORTACAODETEXTURAS#": {
+    "#IMPORTACAODETEXTURAS#": {
       "PortuguesBr": "Importação de Texturas",
       "PortuguesPt": "Importação de Texturas",
       "InglesUs": "Texture Import",
@@ -638,8 +645,8 @@
       "RussoRu": "Импорт текстур",
       "AlemaoDe": "Texturimport",
       "JaponesJa": "テクスチャのインポート",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "텍스처 가져오기",
+      "Italiano": "Importazione di texture"
     },
     "#INFOINICIORODADA_1#": {
       "PortuguesBr": "Inicia a próxima rodada, deixando assim o controle nas mãos do jogador, para que haja o tempo necessário para elaborar uma estratégia.",
@@ -650,10 +657,10 @@
       "RussoRu": "Запускает следующий раунд, оставляя контроль в руках игрока, чтобы было достаточно времени для разработки стратегии.",
       "AlemaoDe": "Startet die nächste Runde und überlässt damit die Kontrolle dem Spieler, um die nötige Zeit für die Ausarbeitung einer Strategie zu haben.",
       "JaponesJa": "次のラウンドを開始し、プレイヤーに制御を委ね、戦略を練るために十分な時間を確保します。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "다음 라운드가 시작되면서 플레이어에게 조작권이 넘어가고, 전략을 세울 충분한 시간이 주어집니다.",
+      "Italiano": "Inizia così il round successivo, che passa il controllo al giocatore, il quale avrà quindi il tempo necessario per elaborare una strategia."
     },
-	"#INICIARRONDA#": {
+    "#INICIARRONDA#": {
       "PortuguesBr": "Iniciar ronda",
       "PortuguesPt": "Iniciar ronda",
       "InglesUs": "Start round",
@@ -662,8 +669,8 @@
       "RussoRu": "Начать раунд",
       "AlemaoDe": "Runde starten",
       "JaponesJa": "ラウンドを開始",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "순찰 시작",
+      "Italiano": "Inizia la pattuglia"
     },
     "#INIMIGOS#": {
       "PortuguesBr": "inimigos",
@@ -674,8 +681,8 @@
       "RussoRu": "враги",
       "AlemaoDe": "Feinde",
       "JaponesJa": "敵",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "적들",
+      "Italiano": "nemici"
     },
     "#LAVA#": {
       "PortuguesBr": "Lava",
@@ -686,8 +693,8 @@
       "RussoRu": "Лава",
       "AlemaoDe": "Lava",
       "JaponesJa": "溶岩",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "충분한",
+      "Italiano": "Abbastanza"
     },
     "#LISTACOMANDOS#": {
       "PortuguesBr": "Lista Comandos",
@@ -698,8 +705,8 @@
       "RussoRu": "Список команд",
       "AlemaoDe": "Befehlsliste",
       "JaponesJa": "コマンドリスト",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "명령어 목록",
+      "Italiano": "Elenco comandi"
     },
     "#LUZES#": {
       "PortuguesBr": "Luzes",
@@ -710,10 +717,10 @@
       "RussoRu": "Свет",
       "AlemaoDe": "Lichter",
       "JaponesJa": "ライト",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "허파",
+      "Italiano": "Luci"
     },
-	"#MADEIRA#": {
+    "#MADEIRA#": {
       "PortuguesBr": "Madeira",
       "PortuguesPt": "Madeira",
       "InglesUs": "Wood",
@@ -722,8 +729,8 @@
       "RussoRu": "Дерево",
       "AlemaoDe": "Holz",
       "JaponesJa": "木",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "목재",
+      "Italiano": "Legna"
     },
     "#MOSTRAR#": {
       "PortuguesBr": "Mostrar",
@@ -734,8 +741,8 @@
       "RussoRu": "Показать",
       "AlemaoDe": "Anzeigen",
       "JaponesJa": "表示",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "보여주다",
+      "Italiano": "Spettacolo"
     },
     "#NATUREZA#": {
       "PortuguesBr": "Natureza",
@@ -746,8 +753,8 @@
       "RussoRu": "Природа",
       "AlemaoDe": "Natur",
       "JaponesJa": "自然",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "자연",
+      "Italiano": "Natura"
     },
     "#INFOMODOJOGODEFENSASUABASE_1#": {
       "PortuguesBr": "Neste modo de jogo você terá acesso a um conjunto diversificado de peças, objetos e armas para erguer e fortificar suas defesas protegendo o núcleo de seu mundo.",
@@ -758,8 +765,8 @@
       "RussoRu": "В этом режиме игры у вас будет доступ к разнообразному набору деталей, объектов и оружия для построения и укрепления ваших оборонительных сооружений, защищая ядро вашего мира.",
       "AlemaoDe": "In diesem Spielmodus haben Sie Zugriff auf eine vielfältige Auswahl an Teilen, Objekten und Waffen, um Ihre Verteidigungen zu errichten und zu festigen und den Kern Ihrer Welt zu schützen.",
       "JaponesJa": "このゲームモードでは、さまざまなピース、オブジェクト、武器にアクセスできます。防御を築き、補強し、世界の中核を保護します。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "이 게임 모드에서는 다양한 구성 요소, 물건 및 무기를 사용하여 방어 시설을 건설하고 강화하여 세계의 핵심을 보호할 수 있습니다.",
+      "Italiano": "In questa modalità di gioco avrai accesso a una vasta gamma di pezzi, oggetti e armi per costruire e fortificare le tue difese, proteggendo il cuore del tuo mondo."
     },
     "#INFOMODOJOGOCONSTRUCAO_1#": {
       "PortuguesBr": "Neste modo de jogo você terá acesso a um vasto inventário de peças e objetos diferentes, como blocos, móveis, decorações para dar vida a sua criatividade.",
@@ -770,10 +777,10 @@
       "RussoRu": "В этом режиме игры у вас будет доступ к обширному инвентарю различных деталей и объектов, таких как блоки, мебель, украшения, чтобы оживить вашу креативность.",
       "AlemaoDe": "In diesem Spielmodus haben Sie Zugriff auf ein umfangreiches Inventar von verschiedenen Teilen und Objekten wie Blöcke, Möbel, Dekorationen, um Ihrer Kreativität Leben einzuhauchen.",
       "JaponesJa": "このゲームモードでは、さまざまなピースやオブジェクトにアクセスできます。ブロック、家具、デコレーションなど、あなたの創造力に命を吹き込むためのものです。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "이 게임 모드에서는 블록, 가구, 장식품 등 다양한 구성 요소와 오브젝트를 활용하여 창의력을 마음껏 발휘할 수 있습니다.",
+      "Italiano": "In questa modalità di gioco avrai accesso a un vasto inventario di pezzi e oggetti diversi, come blocchi, mobili e decorazioni, per dare vita alla tua creatività."
     },
-	"#NAOEXIBIRMAIS#": {
+    "#NAOEXIBIRMAIS#": {
       "PortuguesBr": "Não exibir mais",
       "PortuguesPt": "Não exibir mais",
       "InglesUs": "Do not display anymore",
@@ -782,8 +789,8 @@
       "RussoRu": "Не отображать больше",
       "AlemaoDe": "Nicht mehr anzeigen",
       "JaponesJa": "もう表示しない",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "다시 표시하지 않음",
+      "Italiano": "Non visualizzare di nuovo"
     },
     "#INFONAORONDA_1#": {
       "PortuguesBr": "Não: Você continuará a partir da última ronda.",
@@ -794,8 +801,8 @@
       "RussoRu": "Нет: Вы продолжите с последнего раунда.",
       "AlemaoDe": "Nein: Sie werden ab der letzten Runde fortgesetzt.",
       "JaponesJa": "いいえ：前回のラウンドから続行します。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "아니요: 이전 라운드에서 이어서 진행됩니다.",
+      "Italiano": "No: Continuerai dal round precedente."
     },
     "#NUCLEO#": {
       "PortuguesBr": "Núcleo",
@@ -806,8 +813,8 @@
       "RussoRu": "Ядро",
       "AlemaoDe": "Kern",
       "JaponesJa": "コア",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "핵심",
+      "Italiano": "Nucleo"
     },
     "#INFOCOREMAPA_1#": {
       "PortuguesBr": "O coração do seu mundo, este artefato, precisa ser protegido com a sua vida. A cada rodada concluída, mais inimigos tentarão destruí-lo. Seu objetivo é criar defesas e garantir a sobrevivência do seu mundo.",
@@ -818,10 +825,10 @@
       "RussoRu": "Сердце вашего мира, этот артефакт, должно быть защищено вашей жизнью. С каждым завершенным раундом все больше врагов попытаются его уничтожить. Ваша цель - создать защитные сооружения и обеспечить выживание вашего мира.",
       "AlemaoDe": "Das Herz deiner Welt, dieses Artefakt, muss mit deinem Leben geschützt werden. Mit jedem abgeschlossenen Durchgang werden mehr Feinde versuchen, es zu zerstören. Dein Ziel ist es, Verteidigungen zu schaffen und das Überleben deiner Welt zu gewährleisten.",
       "JaponesJa": "あなたの世界の中心、このアーティファクトはあなたの命をかけて守る必要があります。各ラウンドが終了するたびに、より多くの敵がそれを破壊しようとします。あなたの目標は、防御を作り、あなたの世界の生存を確保することです。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "당신의 세계의 심장인 이 유물은 목숨을 걸고 지켜야 합니다. 매 라운드가 진행될 때마다 더 많은 적들이 이 유물을 파괴하려 들 것입니다. 당신의 목표는 방어 시설을 구축하고 세계의 생존을 보장하는 것입니다.",
+      "Italiano": "Il cuore del tuo mondo, questo artefatto, deve essere protetto a costo della tua vita. Ad ogni round completato, sempre più nemici cercheranno di distruggerlo. Il tuo obiettivo è creare difese e garantire la sopravvivenza del tuo mondo."
     },
-	"#INFOIMPORTACAOTEXTURAS_1#": {
+    "#INFOIMPORTACAOTEXTURAS_1#": {
       "PortuguesBr": "Para realizar a importação de texturas, deve-se realizar os seguintes passos:",
       "PortuguesPt": "Para realizar a importação de texturas, deve-se realizar os seguintes passos:",
       "InglesUs": "To perform texture import, the following steps must be taken:",
@@ -830,8 +837,8 @@
       "RussoRu": "Для выполнения импорта текстур необходимо выполнить следующие шаги:",
       "AlemaoDe": "Um den Import von Texturen durchzuführen, müssen die folgenden Schritte durchgeführt werden:",
       "JaponesJa": "テクスチャのインポートを行うには、以下の手順を実行する必要があります。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "텍스처를 불러오려면 다음 단계를 따르세요.",
+      "Italiano": "Per importare le texture, segui questi passaggi:"
     },
     "#PEDRA#": {
       "PortuguesBr": "Pedra",
@@ -842,8 +849,8 @@
       "RussoRu": "Камень",
       "AlemaoDe": "Stein",
       "JaponesJa": "石",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "결석",
+      "Italiano": "Calcolo"
     },
     "#INFOPORTAISESPALHADOSPELOMAPA_1#": {
       "PortuguesBr": "Portais como este estão espalhados pelo mapa e servem como a porta de entrada dos inimigos para o seu mundo.",
@@ -854,8 +861,8 @@
       "RussoRu": "Порталы, подобные этому, распространены по всей карте и служат входной точкой для врагов в ваш мир.",
       "AlemaoDe": "Portale wie dieses sind über die Karte verteilt und dienen als Eingangspunkt für Feinde in deine Welt.",
       "JaponesJa": "このようなポータルはマップ全体に散らばっており、敵があなたの世界に入る入り口として機能します。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "이와 같은 포털은 지도 곳곳에 흩어져 있으며, 적들이 당신의 세계로 들어오는 관문 역할을 합니다.",
+      "Italiano": "Portali come questo sono sparsi per la mappa e fungono da varco per i nemici che vogliono entrare nel tuo mondo."
     },
     "#INFOPORTAISESPALHADOSPELOMAPA_2#": {
       "PortuguesBr": "Portais como este estão espalhados pelo mapa, são a porta de entrada dos inimigos para o seu mundo.",
@@ -866,8 +873,8 @@
       "RussoRu": "Подобные порталы распространены по всей карте и служат входом для врагов в ваш мир.",
       "AlemaoDe": "Portale wie dieser sind auf der Karte verteilt und dienen als Eingang für Feinde in Ihre Welt.",
       "JaponesJa": "このようなポータルは地図全体に広がっており、敵があなたの世界に入る入り口です。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "이런 포털은 지도 곳곳에 흩어져 있으며, 적들이 당신의 세계로 들어오는 관문입니다.",
+      "Italiano": "Portali come questo sono sparsi per tutta la mappa; sono il varco attraverso cui i nemici entrano nel tuo mondo."
     },
     "#PORTAL#": {
       "PortuguesBr": "Portal",
@@ -878,8 +885,8 @@
       "RussoRu": "Портал",
       "AlemaoDe": "Portal",
       "JaponesJa": "ポータル",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "문",
+      "Italiano": "Portale"
     },
     "#QUAL#": {
       "PortuguesBr": "Qual",
@@ -890,8 +897,8 @@
       "RussoRu": "Какой",
       "AlemaoDe": "Welche",
       "JaponesJa": "何",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "어느",
+      "Italiano": "Quale"
     },
     "#QUALNOMEMAPA#": {
       "PortuguesBr": "Qual o nome do seu mapa?",
@@ -902,8 +909,8 @@
       "RussoRu": "Как назвать вашу карту?",
       "AlemaoDe": "Wie heißt deine Karte?",
       "JaponesJa": "あなたのマップの名前は何ですか？",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "당신이 만든 지도의 이름은 무엇인가요?",
+      "Italiano": "Come si chiama la tua mappa?"
     },
     "#REMOVERMAPA#": {
       "PortuguesBr": "Remover Mapa",
@@ -914,8 +921,8 @@
       "RussoRu": "Удалить карту",
       "AlemaoDe": "Karte entfernen",
       "JaponesJa": "マップを削除",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "지도를 제거하세요",
+      "Italiano": "Rimuovi mappa"
     },
     "#REMOVERUSUARIO#": {
       "PortuguesBr": "Remover Usuário",
@@ -926,10 +933,10 @@
       "RussoRu": "Удалить пользователя",
       "AlemaoDe": "Benutzer entfernen",
       "JaponesJa": "ユーザーの削除",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "사용자 제거",
+      "Italiano": "Rimuovi utente"
     },
-	"#RONDAFINALIZADA#": {
+    "#RONDAFINALIZADA#": {
       "PortuguesBr": "Ronda Finalizada",
       "PortuguesPt": "Ronda Finalizada",
       "InglesUs": "Round Finished",
@@ -938,8 +945,8 @@
       "RussoRu": "Раунд завершен",
       "AlemaoDe": "Runde beendet",
       "JaponesJa": "ラウンド終了",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "라운드 완료",
+      "Italiano": "Test completato"
     },
     "#RONDAINICIADA#": {
       "PortuguesBr": "Ronda iniciada!",
@@ -950,8 +957,8 @@
       "RussoRu": "Начата раунд!",
       "AlemaoDe": "Runde gestartet!",
       "JaponesJa": "ラウンド開始！",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "라운드가 시작되었습니다!",
+      "Italiano": "Iniziato il round!"
     },
     "#ROTACAOCAMERA#": {
       "PortuguesBr": "Rotação câmera / seleção peça",
@@ -962,8 +969,8 @@
       "RussoRu": "Вращение камеры / выбор элемента",
       "AlemaoDe": "Kamerarotation / Stückauswahl",
       "JaponesJa": "カメラの回転 / ピースの選択",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "카메라 회전 / 부품 선택",
+      "Italiano": "Rotazione della telecamera / selezione della parte"
     },
     "#ROTACAOPECA#": {
       "PortuguesBr": "Rotação peça",
@@ -974,10 +981,10 @@
       "RussoRu": "Вращение детали",
       "AlemaoDe": "Block drehen",
       "JaponesJa": "ピースの回転",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "회전 부분",
+      "Italiano": "Parte rotante"
     },
-	"#SELECIONESEUOBJETO#": {
+    "#SELECIONESEUOBJETO#": {
       "PortuguesBr": "Selecione o seu objeto",
       "PortuguesPt": "Selecione o seu objeto",
       "InglesUs": "Select your object",
@@ -986,8 +993,8 @@
       "RussoRu": "Выберите ваш объект",
       "AlemaoDe": "Wählen Sie Ihr Objekt aus",
       "JaponesJa": "あなたのオブジェクトを選択してください",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "원하는 개체를 선택하세요.",
+      "Italiano": "Seleziona l'oggetto."
     },
     "#SELECIONESUATEXTURA#": {
       "PortuguesBr": "Selecione sua textura",
@@ -998,8 +1005,8 @@
       "RussoRu": "Выберите вашу текстуру",
       "AlemaoDe": "Wählen Sie Ihre Textur aus",
       "JaponesJa": "あなたのテクスチャを選択してください",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "원하는 질감을 선택하세요",
+      "Italiano": "Seleziona la tua texture"
     },
     "#SELECAODEPECAS#": {
       "PortuguesBr": "Seleção de Peças",
@@ -1010,8 +1017,8 @@
       "RussoRu": "Выбор деталей",
       "AlemaoDe": "Teileauswahl",
       "JaponesJa": "ピースの選択",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "부품 선택",
+      "Italiano": "Selezione dei componenti"
     },
     "#SEU#": {
       "PortuguesBr": "Seu",
@@ -1022,10 +1029,10 @@
       "RussoRu": "Ваш",
       "AlemaoDe": "Ihr",
       "JaponesJa": "あなたの",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "당신의",
+      "Italiano": "Tuo"
     },
-	"#SIMRETORNAMENUINICIAL#": {
+    "#SIMRETORNAMENUINICIAL#": {
       "PortuguesBr": "Sim: Retorna ao menu inicial.",
       "PortuguesPt": "Sim: Retorna ao menu inicial.",
       "InglesUs": "Yes: Returns to the main menu.",
@@ -1034,8 +1041,8 @@
       "RussoRu": "Да: Возврат к главному меню.",
       "AlemaoDe": "Ja: Rückkehr zum Hauptmenü.",
       "JaponesJa": "はい：メインメニューに戻ります。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "예: 메인 메뉴로 돌아갑니다.",
+      "Italiano": "Sì: torna al menu principale."
     },
     "#SUA#": {
       "PortuguesBr": "Sua",
@@ -1046,8 +1053,8 @@
       "RussoRu": "Ваша",
       "AlemaoDe": "Ihre",
       "JaponesJa": "あなたの",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "당신의",
+      "Italiano": "Tuo"
     },
     "#TAPETE#": {
       "PortuguesBr": "Tapete",
@@ -1058,10 +1065,10 @@
       "RussoRu": "Ковер",
       "AlemaoDe": "Teppich",
       "JaponesJa": "カーペット",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "매트",
+      "Italiano": "Stuoia"
     },
-	"#TERRA#": {
+    "#TERRA#": {
       "PortuguesBr": "Terra",
       "PortuguesPt": "Terra",
       "InglesUs": "Earth",
@@ -1070,8 +1077,8 @@
       "RussoRu": "Земля",
       "AlemaoDe": "Erde",
       "JaponesJa": "地球",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "지구",
+      "Italiano": "Terra"
     },
     "#TEXTURA#": {
       "PortuguesBr": "Textura",
@@ -1082,8 +1089,8 @@
       "RussoRu": "Текстура",
       "AlemaoDe": "Textur",
       "JaponesJa": "テクスチャ",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "조직",
+      "Italiano": "Struttura"
     },
     "#TIJOLOS#": {
       "PortuguesBr": "Tijolos",
@@ -1094,8 +1101,8 @@
       "RussoRu": "Кирпичи",
       "AlemaoDe": "Ziegelsteine",
       "JaponesJa": "れんが",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "벽돌",
+      "Italiano": "mattoni"
     },
     "#TOTALIZADORDERECURSOSDIPONIVEISPARACONSTRUCAO_1#": {
       "PortuguesBr": "Totalizador de recursos disponíveis pelo jogador para utilizar na construção de suas defesas.",
@@ -1106,10 +1113,10 @@
       "RussoRu": "Общий счетчик ресурсов, доступных игроку для использования в построении его обороны.",
       "AlemaoDe": "Gesamtzähler der dem Spieler zur Verfügung stehenden Ressourcen zur Verwendung beim Bau seiner Verteidigung.",
       "JaponesJa": "プレイヤーが防御を構築するために利用できるリソースの総量。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "플레이어가 방어 시설을 건설하는 데 사용할 수 있는 자원의 총량입니다.",
+      "Italiano": "Totale delle risorse a disposizione del giocatore per costruire le proprie difese."
     },
-	"#INFOUTILIZACAOBOTAODIREITOMOUSEPECAS_1#": {
+    "#INFOUTILIZACAOBOTAODIREITOMOUSEPECAS_1#": {
       "PortuguesBr": "Utilizando o botão direito do mouse, você pode adicionar as peças ao cenário. Com o botão esquerdo, você pode selecionar uma peça, e ao segurar a tecla SHIFT, é possível selecionar várias peças ao mesmo tempo.",
       "PortuguesPt": "Usando o botão direito do mouse, você pode adicionar peças ao cenário. Com o botão esquerdo, você pode selecionar uma peça, e ao manter pressionada a tecla SHIFT, é possível selecionar várias peças ao mesmo tempo.",
       "InglesUs": "By using the right mouse button, you can add Itens to the scenario. With the left button, you can select a piece, and by holding the SHIFT key, you can select multiple Itens at the same time.",
@@ -1118,8 +1125,8 @@
       "RussoRu": "Используя правую кнопку мыши, вы можете добавить детали в сценарий. Щелкнув левой кнопкой, вы можете выбрать деталь, и удерживая клавишу SHIFT, вы можете выбрать несколько деталей одновременно.",
       "AlemaoDe": "Durch Verwenden der rechten Maustaste können Sie Teile zum Szenario hinzufügen. Mit der linken Taste können Sie ein Teil auswählen, und durch Halten der UMSCHALT-Taste können Sie mehrere Teile gleichzeitig auswählen.",
       "JaponesJa": "マウスの右ボタンを使用して、シナリオにピースを追加できます。左ボタンを押しながらSHIFTキーを押すと、複数のピースを同時に選択できます。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "마우스 오른쪽 버튼을 사용하면 장면에 조각을 추가할 수 있습니다. 마우스 왼쪽 버튼으로는 조각을 선택할 수 있으며, Shift 키를 누른 상태에서 여러 조각을 동시에 선택할 수 있습니다.",
+      "Italiano": "Utilizzando il tasto destro del mouse, è possibile aggiungere elementi alla scena. Con il tasto sinistro, è possibile selezionare un elemento, e tenendo premuto il tasto MAIUSC, è possibile selezionarne più di uno contemporaneamente."
     },
     "#INFOUTILIZACAOSCROLMOUSEPARACAMERA_1#": {
       "PortuguesBr": "Utilizando o scroll do mouse, você pode controlar o zoom da câmera, permitindo que você se aproxime ou se afaste dos objetos.",
@@ -1130,8 +1137,8 @@
       "RussoRu": "Используя колесо прокрутки мыши, вы можете управлять зумом камеры, позволяя вам приближаться или отдаляться от объектов.",
       "AlemaoDe": "Durch Drehen des Mausrads können Sie den Kamerazoom steuern und sich so auf Objekte zoomen oder von ihnen entfernen.",
       "JaponesJa": "マウスのスクロールを使用して、カメラのズームを制御し、オブジェクトに寄ったり離れたりできます。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "마우스 휠을 사용하면 카메라의 줌 기능을 조절하여 사물에 더 가까이 또는 더 멀리 이동할 수 있습니다.",
+      "Italiano": "Utilizzando la rotellina del mouse, è possibile controllare lo zoom della telecamera, consentendo di avvicinarsi o allontanarsi dagli oggetti."
     },
     "#TOPICOATALHO_V_ALTERARVISAOJOGADOR#": {
       "PortuguesBr": "V - Altera visão Player",
@@ -1142,8 +1149,8 @@
       "RussoRu": "V - Изменяет вид игрока",
       "AlemaoDe": "V - Spieleransicht ändern",
       "JaponesJa": "V - プレイヤーの視点を変更",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "V - 플레이어 보기 변경",
+      "Italiano": "V - Cambia la visualizzazione del giocatore"
     },
     "#VIDRO#": {
       "PortuguesBr": "Vidro",
@@ -1154,8 +1161,8 @@
       "RussoRu": "Стекло",
       "AlemaoDe": "Glas",
       "JaponesJa": "ガラス",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "유리",
+      "Italiano": "Bicchiere"
     },
     "#INFOWORLDOFBLOCKS#": {
       "PortuguesBr": "World of Blocks é um jogo desenvolvido por duas pessoas, é com grande entusiasmo que apresentamos o novo modo 'Tower Defense', que combina construção com sobrevivência. Este modo encontra-se em fase Beta, o que significa que estamos comprometidos em aprimorá-lo constantemente. Durante esta fase, estaremos realizando ajustes de equilíbrio e corrigindo eventuais bugs que possam surgir. Além disso, estamos empolgados em compartilhar que estamos planejando adicionar novidades emocionantes, como novos mapas, armas e monstros, para enriquecer ainda mais sua experiência de jogo.",
@@ -1166,10 +1173,10 @@
       "RussoRu": "World of Blocks - игра, разработанная двумя людьми, и с огромным энтузиазмом мы представляем новый режим 'Tower Defense', который сочетает в себе строительство и выживание. Этот режим находится в бета-версии, что означает, что мы стремимся постоянно улучшать его. В течение этой фазы мы будем проводить балансировку и исправлять любые ошибки, которые могут возникнуть. Кроме того, с радостью сообщаем, что мы планируем добавить новые захватывающие функции, такие как новые карты, оружие и монстры, чтобы еще больше обогатить ваш опыт игры.",
       "AlemaoDe": "World of Blocks ist ein Spiel, das von zwei Personen entwickelt wurde, und wir präsentieren voller Begeisterung den neuen Modus 'Tower Defense', der Bauen mit Überleben kombiniert. Dieser Modus befindet sich derzeit in der Beta-Phase, was bedeutet, dass wir uns verpflichtet fühlen, ihn ständig zu verbessern. Während dieser Phase werden wir Balance-Anpassungen vornehmen und mögliche Fehler beheben. Außerdem freuen wir uns, bekannt zu geben, dass wir planen, aufregende neue Funktionen wie neue Karten, Waffen und Monster hinzuzufügen, um Ihr Spielerlebnis noch weiter zu bereichern.",
       "JaponesJa": "World of Blocksは、2人の開発者によって開発されたゲームであり、建設とサバイバルを組み合わせた新しい「タワーディフェンス」モードを紹介することは大変嬉しく思います。 このモードは現在ベータ版です。これは、常に改善に取り組んでいることを意味します。 このフェーズでは、バランスの調整を行い、発生する可能性のあるバグを修正します。 さらに、新しいマップ、武器、モンスターなど、新しい機能を追加する予定であることをお知らせできることを嬉しく思います。 ゲームを楽しんでください。",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "월드 오브 블록스는 두 사람이 개발한 게임이며, 건설과 생존이 결합된 새로운 '타워 디펜스' 모드를 소개하게 되어 매우 기쁩니다. 이 모드는 현재 베타 버전으로, 지속적인 개선을 위해 노력하고 있습니다. 베타 기간 동안에는 밸런스 조정과 버그 수정 작업을 진행할 예정입니다. 또한, 새로운 맵, 무기, 몬스터 등 더욱 풍성한 게임 경험을 제공할 새로운 기능들을 추가할 계획입니다.",
+      "Italiano": "World of Blocks è un gioco sviluppato da due persone e siamo entusiasti di presentare la nuova modalità \"Tower Defense\", che unisce costruzione e sopravvivenza. Questa modalità è attualmente in versione beta, il che significa che ci impegniamo a migliorarla costantemente. Durante questa fase, apporteremo modifiche al bilanciamento e correggeremo eventuali bug. Inoltre, siamo lieti di annunciare che stiamo pianificando di aggiungere nuove entusiasmanti funzionalità, come nuove mappe, armi e mostri, per arricchire ulteriormente la vostra esperienza di gioco."
     },
-	"#MAPAS#": {
+    "#MAPAS#": {
       "PortuguesBr": "Mapas",
       "PortuguesPt": "Mapas",
       "InglesUs": "Maps",
@@ -1178,12 +1185,12 @@
       "RussoRu": "Карты",
       "AlemaoDe": "Karten",
       "JaponesJa": "マップ",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "지도",
+      "Italiano": "Mappe"
     }
-},	
+  },
   "Geral": {
-	"#ITENS#": {
+    "#ITENS#": {
       "PortuguesBr": "Itens",
       "PortuguesPt": "Itens",
       "InglesUs": "Items",
@@ -1192,10 +1199,10 @@
       "RussoRu": "Предметы",
       "AlemaoDe": "Gegenstände",
       "JaponesJa": "アイテム",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "품목",
+      "Italiano": "Elementi"
     },
-	"#MOSTRARINDICADORCAMERA#": {
+    "#MOSTRARINDICADORCAMERA#": {
       "PortuguesBr": "Mostrar indicador de câmera",
       "PortuguesPt": "Mostrar indicador de câmera",
       "InglesUs": "Show camera indicator",
@@ -1204,8 +1211,8 @@
       "RussoRu": "Показать индикатор камеры",
       "AlemaoDe": "Kameraindikator anzeigen",
       "JaponesJa": "カメラインジケーターを表示する",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "카메라 표시 표시등을 켜주세요",
+      "Italiano": "Mostra l'indicatore della telecamera"
     },
     "#MOUSE#": {
       "PortuguesBr": "Mouse",
@@ -1216,8 +1223,8 @@
       "RussoRu": "Мышь",
       "AlemaoDe": "Maus",
       "JaponesJa": "マウス",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "생쥐",
+      "Italiano": "Topo"
     },
     "#MOUSEDIREITO#": {
       "PortuguesBr": "Mouse direito",
@@ -1228,8 +1235,8 @@
       "RussoRu": "Правая кнопка мыши",
       "AlemaoDe": "Rechte Maustaste",
       "JaponesJa": "右クリック",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "마우스 오른쪽 버튼",
+      "Italiano": "pulsante destro del mouse"
     },
     "#MOUSEESQUERDO#": {
       "PortuguesBr": "Mouse esquerdo",
@@ -1240,12 +1247,10 @@
       "RussoRu": "Левая кнопка мыши",
       "AlemaoDe": "Linke Maustaste",
       "JaponesJa": "左クリック",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "왼쪽 마우스 버튼",
+      "Italiano": "pulsante sinistro del mouse"
     },
-	
-	
-	"#OBJETO#": {
+    "#OBJETO#": {
       "PortuguesBr": "Objeto",
       "PortuguesPt": "Objeto",
       "InglesUs": "Object",
@@ -1254,10 +1259,10 @@
       "RussoRu": "Объект",
       "AlemaoDe": "Objekt",
       "JaponesJa": "オブジェクト",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "물체",
+      "Italiano": "Oggetto"
     },
-	"#RECURSOS#": {
+    "#RECURSOS#": {
       "PortuguesBr": "Recursos",
       "PortuguesPt": "Recursos",
       "InglesUs": "Resources",
@@ -1266,8 +1271,8 @@
       "RussoRu": "Ресурсы",
       "AlemaoDe": "Ressourcen",
       "JaponesJa": "リソース",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "자원",
+      "Italiano": "Risorse"
     },
     "#PONTOS#": {
       "PortuguesBr": "Pontos",
@@ -1278,8 +1283,8 @@
       "RussoRu": "Очки",
       "AlemaoDe": "Punkte",
       "JaponesJa": "ポイント",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "전철기",
+      "Italiano": "Punti"
     },
     "#OCULTAR#": {
       "PortuguesBr": "Ocultar",
@@ -1290,8 +1295,8 @@
       "RussoRu": "Скрыть",
       "AlemaoDe": "Verstecken",
       "JaponesJa": "隠す",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "위장하다",
+      "Italiano": "Travestimento"
     },
     "#MOVIMENTACAO#": {
       "PortuguesBr": "Movimentação",
@@ -1302,8 +1307,8 @@
       "RussoRu": "Движение",
       "AlemaoDe": "Bewegung",
       "JaponesJa": "動き",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "움직임",
+      "Italiano": "Movimento"
     },
     "#MOVIMENTACAOJOGADOR#": {
       "PortuguesBr": "Movimentação jogador",
@@ -1314,10 +1319,10 @@
       "RussoRu": "Движение игрока",
       "AlemaoDe": "Spielerbewegung",
       "JaponesJa": "プレイヤーの移動",
-      "Coreano": "",
-      "Italiano": ""
-    },  
-	"#SOBREVIVENCIA#": {
+      "Coreano": "플레이어 움직임",
+      "Italiano": "Movimento del giocatore"
+    },
+    "#SOBREVIVENCIA#": {
       "PortuguesBr": "SOBREVIVÊNCIA",
       "PortuguesPt": "SOBREVIVÊNCIA",
       "InglesUs": "SURVIVAL",
@@ -1326,10 +1331,10 @@
       "RussoRu": "ВЫЖИВАНИЕ",
       "AlemaoDe": "ÜBERLEBEN",
       "JaponesJa": "生存",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "활착",
+      "Italiano": "SOPRAVVIVENZA"
     },
-	 "#HORIZONTAL#": {
+    "#HORIZONTAL#": {
       "PortuguesBr": "Horizontal",
       "PortuguesPt": "Horizontal",
       "InglesUs": "Horizontal",
@@ -1338,10 +1343,10 @@
       "RussoRu": "Горизонталь",
       "AlemaoDe": "Horizontal",
       "JaponesJa": "横",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "수평",
+      "Italiano": "Orizzontale"
     },
-	"#VERTICAL#": {
+    "#VERTICAL#": {
       "PortuguesBr": "Vertical",
       "PortuguesPt": "Vertical",
       "InglesUs": "Vertical",
@@ -1350,10 +1355,10 @@
       "RussoRu": "Вертикаль",
       "AlemaoDe": "Vertikal",
       "JaponesJa": "垂直",
-      "Coreano": "",
-      "Italiano": ""
-    },  
-	"#SELECIONSEUUSUARIO#": {
+      "Coreano": "수직의",
+      "Italiano": "Verticale"
+    },
+    "#SELECIONSEUUSUARIO#": {
       "PortuguesBr": "Selecione o seu usuário",
       "PortuguesPt": "Selecione o seu usuário",
       "InglesUs": "Select your user",
@@ -1362,10 +1367,10 @@
       "RussoRu": "Выберите вашего пользователя",
       "AlemaoDe": "Wählen Sie Ihren Benutzer aus",
       "JaponesJa": "ユーザーを選択してください",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "사용자를 선택하세요.",
+      "Italiano": "Seleziona il tuo utente."
     },
-	"#SENSIBILIDADE#": {
+    "#SENSIBILIDADE#": {
       "PortuguesBr": "Sensibilidade",
       "PortuguesPt": "Sensibilidade",
       "InglesUs": "Sensitivity",
@@ -1374,8 +1379,8 @@
       "RussoRu": "Чувствительность",
       "AlemaoDe": "Sensitivität",
       "JaponesJa": "感度",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "감광도",
+      "Italiano": "Sensibilità"
     },
     "#SENSIBILIDADEMOUSE#": {
       "PortuguesBr": "Sensibilidade do mouse",
@@ -1386,10 +1391,10 @@
       "RussoRu": "Чувствительность мыши",
       "AlemaoDe": "Mausempfindlichkeit",
       "JaponesJa": "マウス感度",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "마우스 민감도",
+      "Italiano": "Sensibilità del topo"
     },
-	"#SAIRCOMPIPELINE#": {
+    "#SAIRCOMPIPELINE#": {
       "PortuguesBr": "| Sair",
       "PortuguesPt": "| Sair",
       "InglesUs": "| Exit",
@@ -1398,20 +1403,8 @@
       "RussoRu": "| Выход",
       "AlemaoDe": "| Verlassen",
       "JaponesJa": "| 終了",
-      "Coreano": "",
-      "Italiano": ""
-    },
-	"#ATALHOS#": {
-      "PortuguesBr": "Atalhos",
-      "PortuguesPt": "Atalhos",
-      "InglesUs": "Shortcuts",
-      "EspanholEs": "Atajos",
-      "FrancesFr": "Raccourcis",
-      "RussoRu": "Горячие клавиши",
-      "AlemaoDe": "Tastenkombinationen",
-      "JaponesJa": "ショートカット",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "출구",
+      "Italiano": "Uscita"
     },
     "#AVISO#": {
       "PortuguesBr": "Aviso",
@@ -1422,8 +1415,8 @@
       "RussoRu": "Предупреждение",
       "AlemaoDe": "Warnung",
       "JaponesJa": "警告",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "알림",
+      "Italiano": "Avviso"
     },
     "#BEMVINDO#": {
       "PortuguesBr": "Bem-vindo",
@@ -1434,8 +1427,8 @@
       "RussoRu": "Добро пожаловать",
       "AlemaoDe": "Willkommen",
       "JaponesJa": "ようこそ",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "환영합니다",
+      "Italiano": "Benvenuto"
     },
     "#CADASTRAR#": {
       "PortuguesBr": "Cadastrar",
@@ -1446,8 +1439,8 @@
       "RussoRu": "Зарегистрироваться",
       "AlemaoDe": "Registrieren",
       "JaponesJa": "登録する",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "등록",
+      "Italiano": "Registrati"
     },
     "#CANCELAR#": {
       "PortuguesBr": "Cancelar",
@@ -1458,8 +1451,8 @@
       "RussoRu": "Отменить",
       "AlemaoDe": "Abbrechen",
       "JaponesJa": "キャンセル",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "취소",
+      "Italiano": "Annulla"
     },
     "#CONFIRMAR#": {
       "PortuguesBr": "Confirmar",
@@ -1470,9 +1463,9 @@
       "RussoRu": "Подтвердить",
       "AlemaoDe": "Bestätigen",
       "JaponesJa": "確認する",
-      "Coreano": "",
-      "Italiano": ""
-    }, 
+      "Coreano": "확인",
+      "Italiano": "Conferma"
+    },
     "#EMBREVE#": {
       "PortuguesBr": "EM BREVE",
       "PortuguesPt": "EM BREVE",
@@ -1482,8 +1475,8 @@
       "RussoRu": "СКОРО",
       "AlemaoDe": "BALD VERFÜGBAR",
       "JaponesJa": "近日公開",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "준비 중",
+      "Italiano": "PROSSIMAMENTE"
     },
     "#FECHAR#": {
       "PortuguesBr": "Fechar",
@@ -1494,8 +1487,8 @@
       "RussoRu": "Закрыть",
       "AlemaoDe": "Schließen",
       "JaponesJa": "閉じる",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "닫기",
+      "Italiano": "Chiudi"
     },
     "#FIMDEJOGO#": {
       "PortuguesBr": "Fim de jogo",
@@ -1506,8 +1499,8 @@
       "RussoRu": "Конец игры",
       "AlemaoDe": "Spiel vorbei",
       "JaponesJa": "ゲームオーバー",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "게임 오버",
+      "Italiano": "Fine partita"
     },
     "#GERAL#": {
       "PortuguesBr": "Geral",
@@ -1518,8 +1511,8 @@
       "RussoRu": "Общий",
       "AlemaoDe": "Allgemein",
       "JaponesJa": "一般",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "일반",
+      "Italiano": "Generale"
     },
     "#INFOMODOBETA#": {
       "PortuguesBr": "IMPORTANTE! Modo Beta",
@@ -1530,8 +1523,8 @@
       "RussoRu": "ВАЖНО! Бета-режим",
       "AlemaoDe": "WICHTIG! Beta-Modus",
       "JaponesJa": "重要！ベータモード",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "중요! 베타 모드",
+      "Italiano": "IMPORTANTE! Modalità Beta"
     },
     "#IDIOMA#": {
       "PortuguesBr": "Idioma",
@@ -1542,8 +1535,8 @@
       "RussoRu": "Язык",
       "AlemaoDe": "Sprache",
       "JaponesJa": "言語",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "언어",
+      "Italiano": "Lingua"
     },
     "#INICIAR#": {
       "PortuguesBr": "Iniciar",
@@ -1554,8 +1547,8 @@
       "RussoRu": "Начать",
       "AlemaoDe": "Start",
       "JaponesJa": "開始",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "시작",
+      "Italiano": "Inizio"
     },
     "#INICIO#": {
       "PortuguesBr": "Início",
@@ -1566,8 +1559,8 @@
       "RussoRu": "Начало",
       "AlemaoDe": "Start",
       "JaponesJa": "開始",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "시작",
+      "Italiano": "Inizio"
     },
     "#JOGO#": {
       "PortuguesBr": "Jogo",
@@ -1578,8 +1571,8 @@
       "RussoRu": "Игра",
       "AlemaoDe": "Spiel",
       "JaponesJa": "ゲーム",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "게임",
+      "Italiano": "Gioco"
     },
     "#MAPA#": {
       "PortuguesBr": "Mapa",
@@ -1590,8 +1583,8 @@
       "RussoRu": "Карта",
       "AlemaoDe": "Karte",
       "JaponesJa": "マップ",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "지도",
+      "Italiano": "Mappa"
     },
     "#NOME#": {
       "PortuguesBr": "Nome",
@@ -1602,8 +1595,8 @@
       "RussoRu": "Имя",
       "AlemaoDe": "Name",
       "JaponesJa": "名前",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "이름",
+      "Italiano": "Nome"
     },
     "#NOVO#": {
       "PortuguesBr": "Novo",
@@ -1614,8 +1607,8 @@
       "RussoRu": "Новый",
       "AlemaoDe": "Neu",
       "JaponesJa": "新しい",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "새로운",
+      "Italiano": "Nuovo"
     },
     "#NOVOUSUARIO#": {
       "PortuguesBr": "Novo Usuário",
@@ -1626,8 +1619,8 @@
       "RussoRu": "Новый пользователь",
       "AlemaoDe": "Neuer Benutzer",
       "JaponesJa": "新しいユーザー",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "신규 사용자",
+      "Italiano": "Nuovo utente"
     },
     "#NOVOJOGO#": {
       "PortuguesBr": "Novo jogo",
@@ -1638,8 +1631,8 @@
       "RussoRu": "Новая игра",
       "AlemaoDe": "Neues Spiel",
       "JaponesJa": "新しいゲーム",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "새로운 게임",
+      "Italiano": "Nuovo gioco"
     },
     "#NAO#": {
       "PortuguesBr": "Não",
@@ -1650,8 +1643,8 @@
       "RussoRu": "Нет",
       "AlemaoDe": "Nein",
       "JaponesJa": "いいえ",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "아니요",
+      "Italiano": "NO"
     },
     "#OPCAO#": {
       "PortuguesBr": "Opção",
@@ -1662,8 +1655,8 @@
       "RussoRu": "Опция",
       "AlemaoDe": "Option",
       "JaponesJa": "オプション",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "옵션",
+      "Italiano": "Opzione"
     },
     "#OPCOES#": {
       "PortuguesBr": "Opções",
@@ -1674,8 +1667,8 @@
       "RussoRu": "Параметры",
       "AlemaoDe": "Einstellungen",
       "JaponesJa": "オプション",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "옵션",
+      "Italiano": "Opzioni"
     },
     "#QUALSEUNOME#": {
       "PortuguesBr": "Qual seu nome?",
@@ -1686,8 +1679,8 @@
       "RussoRu": "Как вас зовут?",
       "AlemaoDe": "Wie ist Ihr Name?",
       "JaponesJa": "あなたのお名前は何ですか？",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "이름이 뭐에요?",
+      "Italiano": "Come ti chiami?"
     },
     "#RESOLUCAO#": {
       "PortuguesBr": "Resolução",
@@ -1698,8 +1691,8 @@
       "RussoRu": "Разрешение",
       "AlemaoDe": "Auflösung",
       "JaponesJa": "解像度",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "해결",
+      "Italiano": "Risoluzione"
     },
     "#RESOLUCAOJOGO#": {
       "PortuguesBr": "Resolução Game",
@@ -1710,8 +1703,8 @@
       "RussoRu": "Разрешение игры",
       "AlemaoDe": "Auflösung",
       "JaponesJa": "ゲームの解像度",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "게임 해상도",
+      "Italiano": "Risoluzione del gioco"
     },
     "#SAIR#": {
       "PortuguesBr": "Sair",
@@ -1722,8 +1715,8 @@
       "RussoRu": "Выход",
       "AlemaoDe": "Beenden",
       "JaponesJa": "終了",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "나가다",
+      "Italiano": "Per uscire"
     },
     "#SALVAR#": {
       "PortuguesBr": "Salvar",
@@ -1734,8 +1727,8 @@
       "RussoRu": "Сохранить",
       "AlemaoDe": "Speichern",
       "JaponesJa": "保存",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "구하다",
+      "Italiano": "Salva"
     },
     "#SALVARBARRAAPLICAR#": {
       "PortuguesBr": "Salvar/Aplicar",
@@ -1746,8 +1739,8 @@
       "RussoRu": "Сохранить/Применить",
       "AlemaoDe": "Speichern/Anwenden",
       "JaponesJa": "保存/適用",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "저장/적용",
+      "Italiano": "Salva/Applica"
     },
     "#SELECIONAR#": {
       "PortuguesBr": "Selecionar",
@@ -1758,8 +1751,8 @@
       "RussoRu": "Выбрать",
       "AlemaoDe": "Auswählen",
       "JaponesJa": "選択",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "선택하다",
+      "Italiano": "Selezionare"
     },
     "#SELECIONE#": {
       "PortuguesBr": "Selecione",
@@ -1770,8 +1763,8 @@
       "RussoRu": "Выбрать",
       "AlemaoDe": "Auswählen",
       "JaponesJa": "選択",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "선택하다",
+      "Italiano": "Selezionare"
     },
     "#SIM#": {
       "PortuguesBr": "Sim",
@@ -1782,8 +1775,8 @@
       "RussoRu": "Да",
       "AlemaoDe": "Ja",
       "JaponesJa": "はい",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "노력하다",
+      "Italiano": "Tentativo"
     },
     "#CONFIRMACAOREMOVERUSUARIO#": {
       "PortuguesBr": "Tem certeza que deseja remover o usuário",
@@ -1794,8 +1787,8 @@
       "RussoRu": "Вы уверены, что хотите удалить пользователя",
       "AlemaoDe": "Sind Sie sicher, dass Sie den Benutzer entfernen möchten",
       "JaponesJa": "ユーザーを削除してもよろしいですか",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "사용자를 제거하시겠습니까?",
+      "Italiano": "Sei sicuro di voler rimuovere l'utente"
     },
     "#TROCARUSUARIO#": {
       "PortuguesBr": "Trocar Usuário",
@@ -1806,8 +1799,8 @@
       "RussoRu": "Сменить пользователя",
       "AlemaoDe": "Benutzer wechseln",
       "JaponesJa": "ユーザーを変更",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "사용자 전환",
+      "Italiano": "Cambia utente"
     },
     "#USUARIO#": {
       "PortuguesBr": "Usuário",
@@ -1818,8 +1811,8 @@
       "RussoRu": "Пользователь",
       "AlemaoDe": "Benutzer",
       "JaponesJa": "ユーザー",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "사용자",
+      "Italiano": "Utente"
     },
     "#VERCONTROLES#": {
       "PortuguesBr": "Ver Controles",
@@ -1830,8 +1823,8 @@
       "RussoRu": "Просмотреть управление",
       "AlemaoDe": "Steuerelemente anzeigen",
       "JaponesJa": "コントロールを表示する",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "뷰 컨트롤",
+      "Italiano": "Visualizzazione dei controlli"
     },
     "#NIVEL#": {
       "PortuguesBr": "Nível",
@@ -1842,8 +1835,8 @@
       "RussoRu": "Уровень",
       "AlemaoDe": "Niveau",
       "JaponesJa": "レベル",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "수준",
+      "Italiano": "Livello"
     },
     "#NIVELCOMDOISPONTOS#": {
       "PortuguesBr": "Nível:",
@@ -1854,8 +1847,20 @@
       "RussoRu": "Уровень:",
       "AlemaoDe": "Niveau:",
       "JaponesJa": "レベル:",
-      "Coreano": "",
-      "Italiano": ""
+      "Coreano": "수준:",
+      "Italiano": "Livello:"
+    },
+    "#ATALHOS#": {
+      "PortuguesBr": "Atalhos",
+      "PortuguesPt": "Atalhos",
+      "InglesUs": "Shortcuts",
+      "EspanholEs": "Atajos",
+      "FrancesFr": "Raccourcis",
+      "RussoRu": "Горячие клавиши",
+      "AlemaoDe": "Tastenkombinationen",
+      "JaponesJa": "ショートカット",
+      "Coreano": "단축키",
+      "Italiano": "Scorciatoie"
     }
   }
 }
